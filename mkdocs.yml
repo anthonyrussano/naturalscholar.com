@@ -3,7 +3,7 @@ site_name: "Natural Scholar"
 theme:
   name: material
   language: en
-  favicon: resources/img/logo24.png
+  favicon: resources/img/logo.png
   icon:
     logo: material/school
   palette:
