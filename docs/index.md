@@ -1,3 +1,5 @@
-# Welcome
+# 
 
-It Works! (This website is being served courtesy of IPFS)
+## Welcome to Natural Scholar
+
+    This is a research project.
