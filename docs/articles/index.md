@@ -1,4 +1,4 @@
-# Article One
+# Articles
 
 Description.[^1]
 
