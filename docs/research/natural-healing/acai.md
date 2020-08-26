@@ -9,21 +9,25 @@ tags:
 - Antiobesogenic
 - Antiobesity
 ---
-Açaí refers to the Euterpe oleracea species of palm tree. This tree produces the fruit known as Acai berries. In preparation for consumption, the pulp of the acai fruit is commonly freeze-dried, with the seed and skin removed.[^2]
+# Acai
+
+Acai (Açaí) refers to the Euterpe oleracea species of palm tree which produces the fruit known as Acai berries.
 
 <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acai.jpg" style="border-radius: 5px; border-width: 1px; border-color: #c9c9c9; border-style: solid;   display: block; margin-left: auto; margin-right: auto;">
 
 ## Composition
 
-Acai contains many nutrients, such as polyphenols, iron, vitamin E, and unsaturated fatty acids.[^3]
-
-Acai berries have a high polyphenol content.  
-
-Acai berries contain anthocyanins such as cyanidine-3-glucoside (C3Glc), cyanidine-3-diglucoside, and cyanidin-3-rutinoside, which contribute to antioxidant activity.[^3]
+Acai berries have a high polyphenol content. They also contain many nutrients such as: iron, vitamin E, and unsaturated fatty acids.[^3]
 
 - Polyphenols (Phenolic Compounds)
   - Acai seed extract (ASE) is rich in catechin and polymeric pro-anthocyanidins.
   - Açaí oil is rich in protocatechuic acid.
+
+Acai berries contain anthocyanins such as cyanidine-3-glucoside (C3Glc), cyanidine-3-diglucoside, and cyanidin-3-rutinoside (which contribute to antioxidant activity).[^3]
+
+## Preparation
+
+The pulp of the acai fruit is commonly freeze-dried, with the seed and skin removed.[^2]
 
 ## Healing Properties
 
@@ -112,4 +116,4 @@ Acai berries are a promising functional food for the management and prevention o
 
 [^4]: **Study Type:**  Human: Meta Analysis<br>**Title:** The role of hypoxia in renal production of erythropoietin<br>**Author(s):** Fisher JW, Nakashima J.<br>**Institution(s):** Department of Pharmacology, Tulane University School of Medicine, New Orleans, Louisiana 70112.<br>**Publication:** <i>Cancer</i><br>**Date:** August 1992<br>**Abstract:** <i>Hypoxia is the fundamental stimulus for erythropoietin (EP) production. It is clear that hypoxia increases erythropoietin messenger RNA in a renal cell, which leads to the production of increased amounts of erythropoietin in the kidney. Hypoxia also increases external messenger substances that amplify the effects of hypoxia and increases erythropoietin messenger RNA to further accelerate erythropoietin production. Some of these messenger substances are adenosine, eicosanoids, oxygen-derived metabolites, and beta-2 adrenergic agonists that are postulated to act through the activation of cell membrane receptors and are coupled to an increase in a G stimulatory protein which activates adenylate cyclase. This leads to increased production of cyclic adenosine monophosphate (AMP) for the production of key phosphoproteins that are involved in the biosynthesis/secretion of erythropoietin. This paper considers the physicochemical properties of human erythropoietin, pharmacologic agents that increase and decrease erythropoietin production/secretion, serum erythropoietin levels in normal human subjects and in patients with several types of anemia, and a model for the role of adenosine and other external messenger substances in erythropoietin biosynthesis/secretion.</i><br>**Link:** [Source](https://www.ncbi.nlm.nih.gov/pubmed/1638465)<br>**Citations:**
 
-[^5]: **Study Type:**  Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>**Title:** <br>**Author(s):**  <br>**Institution(s):** <br>**Publication:** <i> </i><br>**Date:** <br>**Abstract:** <i> </i><br>**Link:** [Source]()<br>**Citations:**
+<!-- [^5]: **Study Type:**  Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>**Title:** <br>**Author(s):**  <br>**Institution(s):** <br>**Publication:** <i> </i><br>**Date:** <br>**Abstract:** <i> </i><br>**Link:** [Source]()<br>**Citations:** -->
