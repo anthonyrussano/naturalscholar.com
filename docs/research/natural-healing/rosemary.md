@@ -33,9 +33,19 @@ tags:
 
 (anti-microbial)
 
+#### Antibiolm activity
+
+
+
 ### Antiepileptic
 
 anticonvulsant activity against seizures.[^1]
+
+### Antimutagenic
+
+> Antimutagens are agents that protect DNA from harmful mutations.
+
+
 
 ### Antioxidant
 
