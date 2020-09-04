@@ -1,5 +1,7 @@
 # The Disciplined Trader
 
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/natural-scholar/disciplined trader.jpg" style="border-radius: 5px; border-width: 1px; border-color: #c9c9c9; border-style: solid;   display: block; margin-left: auto; margin-right: auto;">
+
 ## Background
 
 The Disciplined Trader is a book which introduced the concept of trading psychology.  Author Mark Douglas offers a step-by-step process to understand and implement money management when trading.
