@@ -1,19 +1,14 @@
-# Mark Douglas 
+# The Disciplined Trader
 
-Mark Douglas may be considered the father of trading psychology.  He is most well known for authoring the book, "Trading in the Zone."
+## Background
 
-> "If there is such a thing as a secret to the nature of trading, this is it: <br>At the very core of one's ability <br> 1) to trade without fear or overconfidence, <br>2) perceive what the market is offering from its perspective, <br>3) stay completely focused in the "now moment opportunity flow," and <br>4) spontaneously enter the 'zone,' it is a strong virtually unshakeable belief in an uncertain outcome with an edge in your favor." -- Trading in the Zone
+The Disciplined Trader is a book which introduced the concept of trading psychology.  Author Mark Douglas offers a step-by-step process to understand and implement money management in terms of his trading psychology.
 
-"Every trader - is the market." -- Mark Douglas
+## Notes
 
-## Books 
+In the following sections I have set out to document the key ideas from each chapter of The Disciplined Trader as I read through it.
 
-These are Mark's two most popular books:
-
-- [Trading in the Zone](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447/)
-- [The Disciplined Trader](https://www.amazon.com/Disciplined-Trader-Developing-Winning-Attitudes/dp/0132157578/)    
-
-### The Disciplined Trader [^1]
+### Preface / Introduction
 
 - Success in trading is 80 percent psychological and 20 percent one's methodology, be it fundamental or technical.
     - For example, you can have a mediocre knowledge of fundamental and technical information, and if you are in psychological control, you can make money.
@@ -33,14 +28,8 @@ These are Mark's two most popular books:
         - Did you lose? Why?
     - Write down your assessment and refer to your comments before making your next trade.
 
-## Paula T. Webb
+*The grim reaper who kills off all "your equity" and disappears with your profits is not the mysterious and ubiquitous "they" but a simple misguided "you."*
 
-Paula Webb is co-author with Mark Douglas of "Trading Psychology."
-
-Taken from her [website](https://www.paulatwebb.com/false-claims.html):
-
-> "There is no one in the trading community today, no where across the planet, who is authorized to teach, or is expert at, the Mark Douglas materials - except Paula T. Webb."
-
-[Paula on Twitter](https://twitter.com/_markdouglas_)
+> Medea said just before she murdered her children, "I know what evil I'm about to do, but my irrational self is stronger than my resolution."  If this sentiment reflects your mind set when you trade, then *The Disciplined Trader* is definitely the type of book you should be reading.
 
 [^1]: Douglas, Mark. The Disciplined Trader: Developing Winning Attitudes. New York Institute of Finance, 1990.
