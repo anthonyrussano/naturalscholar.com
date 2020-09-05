@@ -1,12 +1,13 @@
 # Contact
 
-Please send any questions or comments to the following email address:
+Please send any questions or comments to
 
 anthony@naturalscholar.com
 
 ## Donate via Bitcoin
 
-Help cover the expenses of running and maintaining this FREE site.
+Help cover the expenses of running and maintaining this FREE site.<br>
+Consider donating some BTC.
 
 #### BTC Address:
 

@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to Natural Scholar
 
 !!! abstract "<span id="demo"></span>"
     
