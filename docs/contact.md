@@ -2,7 +2,7 @@
 
 Please send any questions or comments to
 
-anthony@naturalscholar.com
+admin@naturalscholar.com
 
 ## Donate via Bitcoin
 
