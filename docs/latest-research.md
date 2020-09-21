@@ -1,4 +1,4 @@
-# Recent Posts
+# Latest Research
 
 !!! abstract "[Rosemary](/research/natural-healing/rosemary/) Extract Component has been shown to improve metabolic abnormalities"
 
