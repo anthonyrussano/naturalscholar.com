@@ -4,9 +4,7 @@
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/mango.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
-     A single dose of 300 mg mango leaf extract significantly improved performance accuracy across the tasks in the battery, with domain-specific effects seen in terms of enhanced performance on an ‘Accuracy of Attention’ factor and an ‘Episodic Memory’ factor. Performance was also improved across all three tasks (Rapid Visual Information Processing, Serial 3s and Serial 7s subtraction tasks) that make up the Cognitive Demand Battery sub-section of the assessment. All of these cognitive benefits were seen across the post-dose assessments (30 min, 3 h, 5 h).
-
-    These results provide the first demonstration of cognition enhancement following consumption of mango leaf extract and add to previous research showing that polyphenols and polyphenol rich extracts can improve brain function.
+     Mango leaf extract significantly improved brain function and cognitive performance accuracy. Results showed enhanced performance on ‘Accuracy of Attention’ and 'Episodic Memory’. Performance was also improved across Rapid Visual Information Processing, Serial subtraction tasks, and other Cognitive Demand Battery tests. All cognitive benefits were seen across the post-dose assessments of 30 min, 3 h, and 5 h. These results provide the first demonstration of cognition enhancement following consumption of mango leaf extract and add to previous research showing that polyphenols and polyphenol rich extracts can improve brain function.
     
     Link: https://doi.org/10.3390/nu12082194
 
