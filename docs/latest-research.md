@@ -1,14 +1,28 @@
 # Latest Research
 
-!!! quote "[Mango](/research/natural-healing/mango) leaf extract Improves Cognitive Function in Healthy Adults"
+!!! quote "[Turmeric](/research/natural-healing/turmeric)"
+
+    ## Curcumin protects bones from osteoporosis, helps regulate blood glucose/lipid levels
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/turmeric.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+
+    Curcumin (a natural polyphenolic compound extracted from the turmeric root) significantly improved bone biomechanical properties (maximum load, breaking load, elastic load and the bone rigidity coefficient) and preserved bone microarchitecture. The present results also indicated that Curcumin regulated lipid (total cholesterol, triglyceride and low‑density lipoprotein) and fasting blood glucose levels.
+    
+    Link: https://doi.org/10.3892/etm.2020.8943
+
+!!! quote "[Mango Leaf Extract](/research/natural-healing/mango)"
+
+    ## Mango leaf extract Improves Cognitive Function in Healthy Adults
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/mango.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
-     Mango leaf extract significantly improved brain function and cognitive performance accuracy. Results showed enhanced performance on ‘Accuracy of Attention’ and 'Episodic Memory’. Performance was also improved across Rapid Visual Information Processing, Serial subtraction tasks, and other Cognitive Demand Battery tests. All cognitive benefits were seen across the post-dose assessments of 30 min, 3 h, and 5 h. These results provide the first demonstration of cognition enhancement following consumption of mango leaf extract and add to previous research showing that polyphenols and polyphenol rich extracts can improve brain function.
+     Mango leaf extract significantly improved brain function and cognitive performance accuracy. Results showed enhanced ‘Accuracy of Attention’ and 'Episodic Memory’. Performance was also improved across Rapid Visual Information Processing, Serial subtraction tasks, and other Cognitive Demand Battery tests. Cognitive benefits were assessed within 30 min, 3 h, and 5 h of dose. These results provide the first demonstration of cognition enhancement following consumption of mango leaf extract and add to previous research showing that polyphenols and polyphenol rich extracts can improve brain function.
     
     Link: https://doi.org/10.3390/nu12082194
 
-!!! quote "[Vitamin D](/research/natural-healing/vitamin-d) supplementation reduces risk of cancer death by 16%"
+!!! quote "[Vitamin D](/research/natural-healing/vitamin-d)"
+
+    ## Vitamin D supplementation reduces risk of cancer death by 16%
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/vitamin D.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
@@ -16,7 +30,9 @@
     
     Link: https://doi.org/10.1136/bmj.l4673
 
-!!! quote "[Rosemary](/research/natural-healing/rosemary/) Extract Component improves metabolic abnormalities"
+!!! quote "[Rosemary](/research/natural-healing/rosemary/)"
+
+    ## Rosemary Extract improves metabolic abnormalities
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/rosemary.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
@@ -26,6 +42,8 @@
 
 
 <!-- !!! quote "[](/research/natural-healing/)"
+
+    ## Title
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
