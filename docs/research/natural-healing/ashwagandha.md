@@ -26,9 +26,7 @@ tags:
 ---
 # Ashwagandha
 
-**Ashwagandha** has "the ability to both strengthen those who are tired and calm those who are stressed and anxious.”
-
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/ashwagandha.jpg" style="border-radius: 5px; border-width: 1px; border-color: #c9c9c9; border-style: solid;   display: block; margin-left: auto; margin-right: auto;">
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/ashwagandha.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Ashwagandha** has "the ability to both strengthen those who are tired and calm those who are stressed and anxious.”
 
 ## Composition
 

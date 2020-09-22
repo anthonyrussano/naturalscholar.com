@@ -14,15 +14,17 @@ tags:
 ---
 # Acemannan
 
-**Acemannan** (also known by the brand name Carrasyn), is an acetylated polysaccharide located within the protoplast of the parenchymatous cells (aka the soft pulp) of plants belonging to the Aloe genus.[^2]  Acemannan is a polymer which is considered to be responsible for the large amount of water (approximately 99%) that can be retained within the aloe leaves.[^2]
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acemannan.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Acemannan** (ACE) is a polysaccharide (carbohydrate) located within the soft pulp of the inner leaves of Aloe plants. Many of the beneficial properties of Aloe have been attributed to the acemannan present in the gel. 
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acemannan.jpg" style="border-radius: 5px; border-width: 1px; border-color: #c9c9c9; border-style: solid;   display: block; margin-left: auto; margin-right: auto;">
+## Composition
 
-Many of the beneficial properties of Aloe have been attributed to the acemannan present in the gel.
+Acemannan is a β(1,4)-acetylated mannan-based polysaccharide derived from the plant aloe vera (Barbadensis milleri).
 
 ## Healing Properties
 
-#### Anti-aphthous activity
+Acemannan has potential immunostimulant, antiviral, antineoplastic, and gastrointestinal properties.
+
+### Anti-aphthous activity
 
 Helps prevent/treat aphthous ulcers (small, shallow sores inside the mouth or at the base of the gums).[^4]
 

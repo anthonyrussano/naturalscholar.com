@@ -4,11 +4,7 @@ tags:
 ---
 # Pea Protein
 
-Pea protein isolate (PPI) is a dietary supplement created by separating out the other components from peas and extracting the protein fragments, making them into a heterogenous powder.
-
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/pea protein.jpg" style="border-radius: 5px; border-width: 1px; border-color: #c9c9c9; border-style: solid; display: block; margin-left: auto; margin-right: auto;">
-
-Peas are the pod fruit from the Pisum sativum plant (most common).
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/pea protein.jpg" style="border-radius: 5px; float:left; margin: 5px;">Pea protein isolate (PPI) is a dietary supplement created by separating out the other components from peas and extracting the protein fragments, making them into a heterogenous powder. Peas are the pod fruit from the Pisum sativum plant (most common).
 
 ## Composition
 

@@ -11,9 +11,7 @@ tags:
 ---
 # Acai
 
-Acai (Açaí) refers to the Euterpe oleracea species of palm tree which produces the fruit known as Acai berries.
-
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acai.jpg" style="border-radius: 5px; border-width: 1px; border-color: #c9c9c9; border-style: solid;   display: block; margin-left: auto; margin-right: auto;">
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acai.jpg" style="border-radius: 5px; float:left; margin: 5px;">Acai (Açaí) refers to the Euterpe oleracea species of palm tree which produces the fruit known as Acai berries. Acai berries are small, round, black-purple fruits, similar in appearance to a grape, but smaller and with less pulp. The ripe fruits are a deep purple color, or green, depending on the kind of açaí and its maturity. They contain a single large seed. The seed makes up about 60-80% of the fruit.
 
 ## Composition
 
@@ -149,3 +147,5 @@ Acai berries are a promising functional food for the management and prevention o
 **Institution(s):** <br>
 **Abstract:** <br>
 [IPFS Link](https://ipfs.io/ipfs/) -->
+
+<!-- <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acemannan.jpg" style="border-radius: 5px; border-width: 1px; border-color: #c9c9c9; border-style: solid;   display: block; margin-left: auto; margin-right: auto;"> -->

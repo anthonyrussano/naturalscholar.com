@@ -23,9 +23,7 @@ tags:
 ---
 # Agaricus Blazei Mushroom
 
-**Agaricus Blazei Mushroom** [^1] (*also known as:* Agaricus subrufescens, Agaricus brasiliensis, Agaricus rufotegulis, almond mushroom, mushroom of the sun, God's mushroom, mushroom of life, royal sun agaricus, jisongrong, or himematsutake) is an edible species of mushroom related to the champignon (Agaricus bisporus).
-
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Agaricus Blazei Mushroom.jpg" style="border-radius: 5px; border-width: 1px; border-color: #c9c9c9; border-style: solid;   display: block; margin-left: auto; margin-right: auto;">
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Agaricus Blazei Mushroom.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Agaricus Blazei Mushroom** [^1] (*also known as:* Agaricus subrufescens, Agaricus brasiliensis, Agaricus rufotegulis, almond mushroom, mushroom of the sun, God's mushroom, mushroom of life, royal sun agaricus, jisongrong, or himematsutake) is an edible species of mushroom related to the champignon (Agaricus bisporus).
 
 ## Composition
 
