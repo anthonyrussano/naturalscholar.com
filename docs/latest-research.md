@@ -1,8 +1,10 @@
 # Latest Research
 
+## 09-21-2020
+
 !!! quote "[Turmeric](/research/natural-healing/turmeric)"
 
-    ## Curcumin protects bones from osteoporosis, helps regulate blood glucose/lipid levels
+    ### Curcumin protects bones from osteoporosis, helps regulate blood glucose/lipid levels
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/turmeric.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
@@ -10,9 +12,11 @@
     
     Link: https://doi.org/10.3892/etm.2020.8943
 
+## 09-20-2020
+
 !!! quote "[Mango Leaf Extract](/research/natural-healing/mango)"
 
-    ## Mango leaf extract Improves Cognitive Function in Healthy Adults
+    ### Mango leaf extract Improves Cognitive Function in Healthy Adults
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/mango.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
@@ -20,9 +24,11 @@
     
     Link: https://doi.org/10.3390/nu12082194
 
+## 09-19-2020
+
 !!! quote "[Vitamin D](/research/natural-healing/vitamin-d)"
 
-    ## Vitamin D supplementation reduces risk of cancer death by 16%
+    ### Vitamin D supplementation reduces risk of cancer death by 16%
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/vitamin D.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
@@ -32,7 +38,7 @@
 
 !!! quote "[Rosemary](/research/natural-healing/rosemary/)"
 
-    ## Rosemary Extract improves metabolic abnormalities
+    ### Rosemary Extract improves metabolic abnormalities
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/rosemary.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
@@ -43,7 +49,7 @@
 
 <!-- !!! quote "[](/research/natural-healing/)"
 
-    ## Title
+    ### Title
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/.jpg" style="border-radius: 5px; float:left; margin: 5px;">
 
