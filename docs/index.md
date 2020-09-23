@@ -5,6 +5,16 @@
 
 ## 09-23-2020
 
+!!! quote "[Cordyceps](/research/natural-healing/cordyceps) | Immune System Response, Immunomodulator"
+
+    ### Cordyceps Supplementation has positive effects on immune response 
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/cordyceps.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+
+    Natural killer cells, also known as NK cells, are a type of lymphocyte critical to the innate immune system. The role of NK cells is analogous to that of T cells in the adaptive immune response. NK cells provide rapid responses to virus-infected cells, acting at around 3 days after infection, and respond to tumor formation.  This study states that Cordyceps supplementation over 12 weeks showed significantly higher NK cell activity and Immunoglobulin A levels (an antibody blood protein) compared to the placebo group. The results suggest the possible beneficial immunomodulating effects,
+
+    Link: https://doi.org/10.4163/jnh.2019.52.3.258
+
 !!! quote "[Avocado](/research/natural-healing/avocado) | Excercise Recovery, Cardiovascular/Heart Health"
 
     ### Avocados improve cardiovascular and autonomic recovery following submaximal running
