@@ -5,7 +5,7 @@
 
 ## 09-23-2020
 
-!!! quote "[Rosemary](/research/natural-healing/rosemary) & [Ginger](/research/natural-healing/ginger)"
+!!! quote "[Rosemary](/research/natural-healing/rosemary), [Ginger](/research/natural-healing/ginger) | Antibacterial"
 
     ### Rosemary and Ginger Essential Oils effective against Klebsiella pneumoniae
 
@@ -17,7 +17,7 @@
 
 ## 09-22-2020
 
-!!! quote "[Red Chili Peppers](/research/natural-healing/cayenne)"
+!!! quote "[Red Chili Peppers](/research/natural-healing/cayenne) | Weight Loss"
 
     ### Red Chili Extract has significant improvement on Overweight Subjects
 
@@ -27,7 +27,7 @@
     
     Link: https://doi.org/10.1080/19390211.2020.1780363
 
-!!! quote "[Astaxanthin](/research/natural-healing/astaxanthin)"
+!!! quote "[Astaxanthin](/research/natural-healing/astaxanthin) | Mental Health"
 
     ### Astaxanthin reduces depression and fatigue in healthy subjects
 
@@ -40,7 +40,7 @@
 
 ## 09-21-2020
 
-!!! quote "[Turmeric](/research/natural-healing/turmeric)"
+!!! quote "[Turmeric](/research/natural-healing/turmeric) | Bone Health, Diabetes"
 
     ### Curcumin protects bones from osteoporosis, helps regulate blood glucose/lipid levels
 
@@ -52,7 +52,7 @@
 
 ## 09-20-2020
 
-!!! quote "[Mango Leaf Extract](/research/natural-healing/mango)"
+!!! quote "[Mango Leaf Extract](/research/natural-healing/mango) | Brain Health"
 
     ### Mango leaf extract Improves Cognitive Function in Healthy Adults
 
@@ -64,7 +64,7 @@
 
 ## 09-19-2020
 
-!!! quote "[Vitamin D](/research/natural-healing/vitamin-d)"
+!!! quote "[Vitamin D](/research/natural-healing/vitamin-d) | Cancer Prevention"
 
     ### Vitamin D supplementation reduces risk of cancer death by 16%
 
@@ -74,7 +74,7 @@
     
     Link: https://doi.org/10.1136/bmj.l4673
 
-!!! quote "[Rosemary](/research/natural-healing/rosemary/)"
+!!! quote "[Rosemary](/research/natural-healing/rosemary/) | Diabetes, Matabolism"
 
     ### Rosemary Extract improves metabolic abnormalities
 
@@ -85,7 +85,7 @@
     Link: https://link.springer.com/article/10.1007/s11033-020-05825-5
 
 
-<!-- !!! quote "[](/research/natural-healing/)"
+<!-- !!! quote "[Healing Item](/research/natural-healing/) | Keywords"
 
     ### Title
 

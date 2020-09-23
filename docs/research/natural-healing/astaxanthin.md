@@ -27,6 +27,8 @@ tags:
 - Skin Health
 - Testicular Hemorrhage
 ---
+## Astaxanthin
+
 <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/astaxanthin.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Astaxanthin** is a keto-carotenoid. It belongs to a larger class of chemical compounds known as terpenes built from five carbon precursors, isopentenyl diphosphate, and dimethylallyl diphosphate.
 
 ## Healing Properties
