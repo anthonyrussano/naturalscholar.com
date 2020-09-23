@@ -3,6 +3,18 @@
 !!! note ""
     Here is our latest research!
 
+## 09-23-2020
+
+!!! quote "[Rosemary](/research/natural-healing/rosemary) & [Ginger](/research/natural-healing/ginger)"
+
+    ### Rosemary and Ginger Essential Oils effective against Klebsiella pneumoniae
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Ginger.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+
+    Rosemary and ginger essential oils were tested for antimicrobial activities and both demonstrated complete (100%) inhibition against K. pneumonia bacteria (a pathogen in outbreaks of hospital infections).
+
+    Link: http://dx.doi.org/10.2174/1874285802014010205
+
 ## 09-22-2020
 
 !!! quote "[Red Chili Peppers](/research/natural-healing/cayenne)"
