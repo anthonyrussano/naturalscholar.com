@@ -1,5 +1,18 @@
 # Latest Research
 
+## 09-22-2020
+
+!!! quote "[Astaxanthin](/research/natural-healing/astaxanthin)"
+
+    ### Astaxanthin reduces depression and fatigue in healthy subjects
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/astaxanthin.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+
+    Natural astaxanthin (NAX) supplementation reduces negative mood state parameters (depression and fatigue) and improves global mood state and thus supports mental wellness. A total of 28 healthy subjects, half male and half female, with a median age of 42, supplemented with 12 mg per day of NAX or placebo. After an 8-week supplementation period, significant improvements were found in global mood state and related subscales: Vigor, Tension, Depression, Anger, Fatigue, and Confusion.
+    
+    Link: https://www.ecronicon.com/ecnu/pdf/ECNU-14-00568.pdf<br>
+    Alternate Link: https://doi.org/10.31989/ffhd.v9i8.636
+
 ## 09-21-2020
 
 !!! quote "[Turmeric](/research/natural-healing/turmeric)"
