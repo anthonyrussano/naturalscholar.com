@@ -5,6 +5,16 @@
 
 ## 09-23-2020
 
+!!! quote "[Avocado](/research/natural-healing/avocado) | Excercise Recovery, Cardiovascular/Heart Health"
+
+    ### Avocados improve cardiovascular and autonomic recovery following submaximal running
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/avocado.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+
+    Previous studies have demonstrated that regular avocado consumption presents advantageous effects on cardiovascular system. However, little attention has been paid to the use of avocado as a dietary supplement, in particular, for individuals involved in physical exercise training. Therefore, this study aims to evaluate the effect of acute avocado pulp intake on cardiovascular and autonomic recovery subsequent to moderate exercise. Using a crossover, randomized, double-blind and placebo-controlled trial design, 16 healthy female adults underwent two protocols: Avocado pulp (600 mg in capsule) and placebo (600 mg starch in capsule). After the ingestion of Avocado pulp or placebo, the subjects were seated for 60 min at rest, followed by running on a treadmill at a submaximal level and then remained seated for 60 min during recovery from the exercise. Heart rate (HR), heart rate variability (HRV) [rMSSD, SD1, HF (ms2)] and skin conductance were evaluated before and during exercise, as well as during recovery. HR, systolic blood pressure, HRV and skin conductance recovered faster when subjects were given avocado pulp prior to exercise. In conclusion, avocado pulp improved cardiovascular and autonomic recovery after exercise, suggesting a reduced risk of cardiovascular events after exertion. The current results support the beneficial effects of ingestion of avocado prior to submaximal treadmill running. 
+
+    Link: https://doi.org/10.1038/s41598-020-67577-3
+
 !!! quote "[Rosemary](/research/natural-healing/rosemary), [Ginger](/research/natural-healing/ginger) | Antibacterial"
 
     ### Rosemary and Ginger Essential Oils effective against Klebsiella pneumoniae
