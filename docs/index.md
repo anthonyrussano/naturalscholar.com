@@ -3,6 +3,18 @@
 !!! note ""
     Here is our latest research!
 
+## 09-24-2020
+
+!!! quote "[Resveratrol](/research/natural-healing/resveratrol) | Alzheimer's, Brain Health, Immune System Response"
+
+    ### Resveratrol for Alzheimer's may prevent neuronal death, stop amyloid deposition, and promote blood brain barrier inegrity
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/resveratrol.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+
+    Resveratrol treatment has been shown to preserve the integrity of the blood-brain barrier (BBB) in Alzheimer's Disease (AD) patients. Resveratrol also induced adaptive immune responses that promoted brain resilience to amyloid deposition.  Resveratrol may slow cognitive decline in AD, and may arrest neuronal death.  Resveratrol may seal off a leaky blood brain barrier and contribute to cognitive and functional improvement.
+
+    Link: https://doi.org/10.1186/s12974-016-0779-0
+
 ## 09-23-2020
 
 !!! quote "[Cordyceps](/research/natural-healing/cordyceps) | Immune System Response, Immunomodulator"

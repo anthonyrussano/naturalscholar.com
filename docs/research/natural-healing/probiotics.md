@@ -1,10 +1,10 @@
 # Probiotics
 
-The human gut is colonized by trillions of metazoans and comprises a diverse microecosystem known as the gut microbiota.
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/bifidobacteria.jpg" style="border-radius: 5px; float:left; margin: 5px;">The human gut is colonized by trillions of metazoans and comprises a diverse microecosystem known as the gut microbiota.
 
 ## Lactobacillus rhamnosus GG (LGG)
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/bifidobacteria.jpg" style="border-radius: 5px; float:left; margin: 5px;">Lactobacillus rhamnosus GG, a type of probiotic from the gut of healthy individuals, is characterized by high and sustained adhesiveness to the intestinal mucosa.[^1]
+Lactobacillus rhamnosus GG, a type of probiotic from the gut of healthy individuals, is characterized by high and sustained adhesiveness to the intestinal mucosa.[^1]
 
 ### Healing Properties
 
