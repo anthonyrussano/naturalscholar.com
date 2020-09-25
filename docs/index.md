@@ -1,7 +1,19 @@
 # Welcome to Natural Scholar
 
 !!! note ""
-    Here is our latest research!
+    Today is <span id="demo"></span>, here is our latest research...
+
+## 09-25-2020
+
+!!! quote "[Grapes](/research/natural-healing/grapes), [Resveratrol](/research/natural-healing/resveratrol) | Body Composition, Exercise, Metabolism, Obesity, Weight Loss"
+
+    ### Beverages Rich in Resveratrol and Physical Activity Attenuate Metabolic Changes Induced by High-Fat Diet
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/grapes.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+
+    Saturated fats in the diet can cause deleterious effects on health, which could be minimized through physical activity and the consumtion of functional foods with  medicinal qualities. This study has shown that grape juice can help lower lipid peroxidation (fat oxidation), interleukin-6 (IL6) concentration and systolic blood pressure (SBP) while also positivley increasing healthy gut microbiota. The consumption of grape juice therefore, together with physical exercise, may be able to promote beneficial metabolic changes even in the presence of a traditional High Fat Diet.
+
+    Link: https://doi.org/10.1080/07315724.2020.1805374
 
 ## 09-24-2020
 
@@ -126,3 +138,8 @@
     Summary
     
     Link: -->
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d.toDateString();
+</script>
