@@ -5,6 +5,14 @@
 
 ## 09-25-2020
 
+!!! quote "[Nigella Sativa (Black Seed Oil)](/research/natural-healing/nigella-sativa), [Resveratrol](/research/natural-healing/resveratrol), [Turmeric](/research/natural-healing/turmeric) | Auto-Immune Disorders, Psoriasis, Skin disorders"
+
+    ### Curcumin, Resveratrol, and Thymoquinone effective in the management of psoriasis
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Nigella sativa.jpg" style="border-radius: 5px; float:left; margin: 5px;"> A Nanoemulsion gel made of Curcumin, Resveratrol, and Thymoquinone (a chief bioactive constituent of black seed oil (Nigella sativa)) holds promising pharmacological properties as an effective treatment in the management of psoriasis.
+
+    Link: https://doi.org/10.1007/s13346-020-00852-y
+
 !!! quote "[Grapes](/research/natural-healing/grapes), [Resveratrol](/research/natural-healing/resveratrol) | Body Composition, Exercise, Metabolism, Obesity, Weight Loss"
 
     ### Beverages Rich in Resveratrol and Physical Activity Attenuate Metabolic Changes Induced by High-Fat Diet
