@@ -1,15 +1,15 @@
 # Welcome to Natural Scholar
 
 !!! note ""
-    Today is <span id="demo"></span>, here is our latest research...
+    Today is <span id="demo"></span>
 
-## 09-25-2020
+## Latest Research
 
 !!! quote "[Nigella Sativa (Black Seed Oil)](/research/natural-healing/nigella-sativa), [Resveratrol](/research/natural-healing/resveratrol), [Turmeric](/research/natural-healing/turmeric) | Auto-Immune Disorders, Psoriasis, Skin disorders"
 
     ### Curcumin, Resveratrol, and Thymoquinone effective in the management of psoriasis
 
-    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Nigella sativa.jpg" style="border-radius: 5px; float:left; margin: 5px;"> A Nanoemulsion gel made of Curcumin, Resveratrol, and Thymoquinone (a chief bioactive constituent of black seed oil (Nigella sativa)) holds promising pharmacological properties as an effective treatment in the management of psoriasis.
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Nigella sativa.jpg" style="border-radius: 5px; float:left; margin: 5px;"> A Nanoemulsion gel made of Curcumin, Resveratrol, and Thymoquinone (a chief bioactive constituent of black seed oil (Nigella sativa)) holds promising pharmacological properties as an effective treatment in the management of psoriasis (an autoimmune skin disorder).
 
     Link: https://doi.org/10.1007/s13346-020-00852-y
 
@@ -22,20 +22,6 @@
     Saturated fats in the diet can cause deleterious effects on health, which could be minimized through physical activity and the consumtion of functional foods with  medicinal qualities. This study has shown that grape juice can help lower lipid peroxidation (fat oxidation), interleukin-6 (IL6) concentration and systolic blood pressure (SBP) while also positivley increasing healthy gut microbiota. The consumption of grape juice therefore, together with physical exercise, may be able to promote beneficial metabolic changes even in the presence of a traditional High Fat Diet.
 
     Link: https://doi.org/10.1080/07315724.2020.1805374
-
-## 09-24-2020
-
-!!! quote "[Resveratrol](/research/natural-healing/resveratrol) | Alzheimer's, Brain Health, Immune System Response"
-
-    ### Resveratrol for Alzheimer's may prevent neuronal death, stop amyloid deposition, and promote blood brain barrier inegrity
-
-    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/resveratrol.jpg" style="border-radius: 5px; float:left; margin: 5px;">
-
-    Resveratrol treatment has been shown to preserve the integrity of the blood-brain barrier (BBB) in Alzheimer's Disease (AD) patients. Resveratrol also induced adaptive immune responses that promoted brain resilience to amyloid deposition.  Resveratrol may slow cognitive decline in AD, and may arrest neuronal death.  Resveratrol may seal off a leaky blood brain barrier and contribute to cognitive and functional improvement.
-
-    Link: https://doi.org/10.1186/s12974-016-0779-0
-
-## 09-23-2020
 
 !!! quote "[Cordyceps](/research/natural-healing/cordyceps) | Immune System Response, Immunomodulator"
 
@@ -67,8 +53,6 @@
 
     Link: http://dx.doi.org/10.2174/1874285802014010205
 
-## 09-22-2020
-
 !!! quote "[Red Chili Peppers](/research/natural-healing/cayenne) | Weight Loss"
 
     ### Red Chili Extract has significant improvement on Overweight Subjects
@@ -90,8 +74,6 @@
     Link: https://www.ecronicon.com/ecnu/pdf/ECNU-14-00568.pdf<br>
     Alternate Link: https://doi.org/10.31989/ffhd.v9i8.636
 
-## 09-21-2020
-
 !!! quote "[Turmeric](/research/natural-healing/turmeric) | Bone Health, Diabetes"
 
     ### Curcumin protects bones from osteoporosis, helps regulate blood glucose/lipid levels
@@ -101,8 +83,6 @@
     Curcumin (a natural polyphenolic compound extracted from the turmeric root) significantly improved bone biomechanical properties (maximum load, breaking load, elastic load and the bone rigidity coefficient) and preserved bone microarchitecture. The present results also indicated that Curcumin regulated lipid (total cholesterol, triglyceride and low‑density lipoprotein) and fasting blood glucose levels.
     
     Link: https://doi.org/10.3892/etm.2020.8943
-
-## 09-20-2020
 
 !!! quote "[Mango Leaf Extract](/research/natural-healing/mango) | Brain Health"
 
@@ -114,38 +94,9 @@
     
     Link: https://doi.org/10.3390/nu12082194
 
-## 09-19-2020
-
-!!! quote "[Vitamin D](/research/natural-healing/vitamin-d) | Cancer Prevention"
-
-    ### Vitamin D supplementation reduces risk of cancer death by 16%
-
-    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/vitamin D.jpg" style="border-radius: 5px; float:left; margin: 5px;">
-
-    Vitamin D supplementation reduced the risk of cancer death by 16%. A total of 75,454 participants were identified. Vitamin D supplementation statistically significantly reduced the risk of cancer death. In subgroup analyses, all cause mortality was significantly lower in trials with vitamin D3 supplementation than in trials with vitamin D2 supplementation.
-    
-    Link: https://doi.org/10.1136/bmj.l4673
-
-!!! quote "[Rosemary](/research/natural-healing/rosemary/) | Diabetes, Matabolism"
-
-    ### Rosemary Extract improves metabolic abnormalities
-
-    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/rosemary.jpg" style="border-radius: 5px; float:left; margin: 5px;">
-
-    Carnosic acid (CA), a major constituent of rosemary extract, has been shown to improve metabolic abnormalities. Three doses decreased body weight gain, decreased changes in lipid profile (due to increased food intake), improved Fasting Blood Glucose levels, leptin level, and mean systolic blood pressure (MSBP). Overall helped regulate glucose hemostasis in the liver.
-    
-    Link: https://link.springer.com/article/10.1007/s11033-020-05825-5
-
-
-<!-- !!! quote "[Healing Item](/research/natural-healing/) | Keywords"
-
-    ### Title
-
-    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/.jpg" style="border-radius: 5px; float:left; margin: 5px;">
-
-    Summary
-    
-    Link: -->
+!!! tip "Donate Bitcoin"
+    Help us grow! :seedling:<br>
+    **BTC Wallet Address:** bc1qtnvgnagwxzwlxywrjrc7l29kt23la3nfj8jvls
 
 <script>
 var d = new Date();

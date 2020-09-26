@@ -18,43 +18,115 @@ tags:
 
 ## Healing Properties
 
-- **Antiaging:** Resveratrol mimics the antioxidant and antiaging effects of caloric restriction.[^5]
-- **Anticancer:** Resveratrol inhibits the growth of human gastric carcinoma cells.[^3]
-- **Antiinflammatory:**
-- **Anti-oxidant:** (antioxidant)
-- **Anti-angiogenic:** blocks cancer blood vessel growth.
-- **Brain Health:**
-  - **Cognitive enhancement:**
-  - **Neuroprotective:**
-- **Endothelial Health:** endothelium-independent relaxations of thoracic aorta.[^6]
-- **Gut Health:** (Digestive Health) Helps modulate gut microbiota.
-  - Promotes neuroprotection in the myenteric plexus (myenteric plexus is the major nerve supply to the gastrointestinal tract and controls GI tract motility).[^7]
-  - Antioxidant effect in the intestinal wall.[^7]
-- **Heart Health:** Resveratrol and regular aerobic exercise improves vascular functions and biomarkers related to vessel responsiveness.[^6]
-- **Kidney Health:** Reduces renal oxidative stress.
-- **Vascular Health** Improves vessel responsiveness (when taken in conjunction with 40mins of regular daily exercise).[^6]
-  - Improves biomarkers related to vascular functions.[^6]
+### Antiaging
+
+Resveratrol mimics the antioxidant and antiaging effects of caloric restriction.[^5]
+
+### Anticancer
+
+Resveratrol inhibits the growth of human gastric carcinoma cells.[^3]
+
+### Antiinflammatory
+
+### Anti-oxidant (antioxidant)
+
+### Anti-angiogenic
+
+blocks cancer blood vessel growth.
+
+### Brain Health
+
+#### Cognitive enhancement
+
+#### Neuroprotective
+
+Resveratrol may prevent neuronal death, stop amyloid deposition, and promote blood brain barrier inegrity.[^8]
+
+Resveratrol treatment has been shown to preserve the integrity of the blood-brain barrier (BBB) in Alzheimer's Disease (AD) patients. Resveratrol also induced adaptive immune responses that promoted brain resilience to amyloid deposition. Resveratrol may slow cognitive decline in AD, and may arrest neuronal death. Resveratrol may seal off a leaky blood brain barrier and contribute to cognitive and functional improvement.[^8]
+
+### Endothelial Health
+
+endothelium-independent relaxations of thoracic aorta.[^6]
+
+### Gut Health (Digestive Health)
+
+Helps modulate gut microbiota.
+
+- Promotes neuroprotection in the myenteric plexus (myenteric plexus is the major nerve supply to the gastrointestinal tract and controls GI tract motility).[^7]
+- Antioxidant effect in the intestinal wall.[^7]
+
+### Heart Health
+
+Resveratrol and regular aerobic exercise improves vascular functions and biomarkers related to vessel responsiveness.[^6]
+
+### Kidney Health
+
+Reduces renal oxidative stress.
+
+### Vascular Health
+
+Improves vessel responsiveness (when taken in conjunction with 40mins of regular daily exercise).[^6]
+
+- Improves biomarkers related to vascular functions.[^6]
 
 ## Disease / Symptom Treatment
 
-- **Birth Defects**
-  - **Autism:** Resveratrol can help prevent cellular and behavioral sensory alterations to the brain during fetal development.[^2]
-- **Cancer:**
-  - **Bladder Cancer:** Resveratrol induces apoptosis associated with mitochondrial dysfunction in bladder carcinoma cells.
-  - **Cervical Cancer:** Resveratrol can inhibit the occurrence and development of cervical cancer.[^4]
-  - **Gastric Cancer:** Resveratrol induces apoptosis in human gastric carcinoma.[^3]
-  - **Pancreatic Cancer:** Resveratrol induces apoptosis in pancreatic cancer cells.
-  - **Prostate Cancer:** Resveratrol enhances radiation sensitivity in prostate cancer by inhibiting cell proliferation and promoting cell senescence and apoptosis.
-- **Diabetes:** Resveratrol may be promising for the treatment of damage in the enteric nervous system caused by diabetes (the enteric nervous system is embedded in the lining of the gastrointestinal system, beginning in the esophagus and extending down to the anus).[^7]
-- **Dysbiosis:** prevents microbial imbalance, impaired microbiota[^1]
-- **Hypertension:** Resveratrol can reduce renal (kidney) oxidative stress, activate nutrient-sensing signals, modulate gut microbiota, and prevent hypertension.[^1]
-- **Neurodegenerative Diseases**
-  - **Memory Loss:** Resveratrol administration promotes complete protection against memory loss.[^5]
-  - **Alzheimer's Disease**
-    - Resveratrol improves of proteostasis (prevents degradation and misfolding of proteins in the brain).[^5]
-    - Induces neuroprotection against amyloid and tau (neuro-fibrillary tangles) pathologies.[^5]
-    - Promotes brain resilience and defense against neurodegeneration caused by the accumulation of aberrant proteins.
-    - Resveratrol administration induced complete protection against memory loss and brain pathology in mice with Alzheimer's, and also induced cognitive enhancement in healthy mice.[^1]
+### Birth Defects
+
+#### Autism
+
+Resveratrol can help prevent cellular and behavioral sensory alterations to the brain during fetal development.[^2]
+
+### Cancer
+
+#### Bladder Cancer
+
+Resveratrol induces apoptosis associated with mitochondrial dysfunction in bladder carcinoma cells.
+ 
+#### Cervical Cancer
+ 
+Resveratrol can inhibit the occurrence and development of cervical cancer.[^4]
+
+#### Gastric Cancer
+
+Resveratrol induces apoptosis in human gastric carcinoma.[^3]
+
+#### Pancreatic Cancer
+
+Resveratrol induces apoptosis in pancreatic cancer cells.
+
+#### Prostate Cancer
+
+Resveratrol enhances radiation sensitivity in prostate cancer by inhibiting cell proliferation and promoting cell senescence and apoptosis.
+
+### Diabetes
+
+Resveratrol may be promising for the treatment of damage in the enteric nervous system caused by diabetes (the enteric nervous system is embedded in the lining of the gastrointestinal system, beginning in the esophagus and extending down to the anus).[^7]
+
+### Dysbiosis
+
+prevents microbial imbalance, impaired microbiota[^1]
+
+### Hypertension
+
+Resveratrol can reduce renal (kidney) oxidative stress, activate nutrient-sensing signals, modulate gut microbiota, and prevent hypertension.[^1]
+
+### Neurodegenerative Diseases
+
+#### Alzheimer's Disease
+
+- Resveratrol improves of proteostasis (prevents degradation and misfolding of proteins in the brain).[^5]
+- Induces neuroprotection against amyloid and tau (neuro-fibrillary tangles) pathologies.[^5]
+- Promotes brain resilience and defense against neurodegeneration caused by the accumulation of aberrant proteins.
+- Resveratrol administration induced complete protection against memory loss and brain pathology in mice with Alzheimer's, and also induced cognitive enhancement in healthy mice.[^1]
+
+Resveratrol for Alzheimer's may prevent neuronal death, stop amyloid deposition, and promote blood brain barrier inegrity.[^8]
+
+Resveratrol treatment has been shown to preserve the integrity of the blood-brain barrier (BBB) in Alzheimer's Disease (AD) patients. Resveratrol also induced adaptive immune responses that promoted brain resilience to amyloid deposition. Resveratrol may slow cognitive decline in AD, and may arrest neuronal death. Resveratrol may seal off a leaky blood brain barrier and contribute to cognitive and functional improvement.[^8]
+
+#### Memory Loss
+
+Resveratrol administration promotes complete protection against memory loss.[^5]
 
 [^1]: **Title:** Resveratrol Prevents the Development of Hypertension Programmed by Maternal Plus Post-Weaning High-Fructose Consumption Through Modulation of Oxidative Stress, Nutrient-Sensing Signals, and Gut Microbiota.<br>**Author(s):** Tain YL, Lee WC, Wu KLH, Leu S, and Chan JYH<br>**Institution(s):** Department of Pediatrics, Department of Urology, Institute for Translational Research in Biomedicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University, College of Medicine, Kaohsiung, Taiwan.<br>**Publication:** <i>Molecular Nutrition & Food Research</i><br>**Date:** April 30 2018<br>**Abstract:** <i>High-fructose (HF) intake, oxidative stress, nutrient-sensing signals, and gut microbiota dysbiosis are closely related to the development of hypertension. We investigated whether resveratrol can prevent hypertension induced by maternal plus post-weaning HF diets in adult offspring via the above-mentioned mechanisms.Female Sprague-Dawley rats received either a normal (ND) or 60% high-fructose (HF) diet during gestation and lactation. Male offspring were assigned to five groups (maternal diet/post-weaning diet; n = 8/group): ND/ND, ND/HF, HF/ND, HF/HF, and HF/HF+ Resveratrol. Resveratrol (50 mg/L) was administered in drinking water from weaning to three months of age. We found that HF/HF induced hypertension in adult offspring. Maternal HF diet altered gut microbiota composition in adult offspring, including decreasing the abundance of genera Bacteroides, Dysgonomonas, and Turicibacter, while increasing phylum Verrucomicrobia and Akkermansia muciniphila. Additionally, HF/HF diets increased oxidative stress and decreased renal mRNA expression of Prkaa2, Prkag2, Ppara, Pparb, Ppargc1a, and Sirt4. Resveratrol reduced renal oxidative stress, activated nutrient-sensing signals, modulated gut microbiota, and prevented associated HF/HF-induced programmed hypertension. Targeting oxidative stress, nutrient-sensing signals, and gut microbiota by resveratrol might be a useful therapeutic strategy for treatment of hypertension induced by excessive consumption of fructose in the adult rat offspring.</i><br>**Link:** [https://doi.org/10.1002/mnfr.201800066](https://doi.org/10.1002/mnfr.201800066)<br>**Citations:**   
 
@@ -69,6 +141,16 @@ tags:
 [^6]: **Title:** The effects of resveratrol and exercise on age and gender-dependent alterations of vascular functions and biomarkers<br>**Author(s):** Sevtap Han, Nur Banu Bal, Gökhan Sadi, Suzan E. Usanmaz, M. Orhan Uludag, Emine Demirel-Yilmaz<br>**Institution(s):** Gazi University, Faculty of Pharmacy, Department of Pharmacology, Etiler, 06330 Ankara, Turkey, Karamanoglu Mehmed Bey University, Faculty of Arts and Sciences, Department of Biological Sciences, Turkey, Ankara University, Faculty of Medicine, Department of Medical Pharmacology, Sihhiye, 06100 Ankara, Turkey<br>**Publication:** <i>Experimental Gerontology</i><br>**Date:** 13 June 2018<br>**Abstract:** The purpose of this study was to determine the effects of resveratrol and regular aerobic exercise on vascular functions and biomarkers related to vessel responsiveness in an age and gender-dependent manner. The study used young (3 months) and old (12 months) male and female Wistar albino rats. Resveratrol was given in the drinking water (0.05 mg/ml; approximately 7.5 mg/kg) for 6 weeks. In the exercise group, all rats performed treadmill running at 20 m/min on a 0° incline, 40 min/day, 3 times a week, for 6 weeks. Acetylcholine-induced, endothelium-dependent and sodium nitroprusside-mediated, endothelium-independent relaxations of rat thoracic aorta and blood levels of biomarkers were separately changed by resveratrol intake and exercise-training in an age and gender-dependent manner. Antioxidant enzymes and eNOS expressions in vessels were elevated by resveratrol and exercise. Resveratrol and exercise enhanced gene expressions of non-selective PDE1, 2, 3 and cAMP selective PDE4 but not cGMP selective PDE5 in the aorta. In addition, the aortic mRNA expression of inflammation markers were altered by resveratrol and exercise-training. The results of the study demonstrated that vessel responsiveness and biomarkers related to vascular functions were altered by resveratrol consumption and exercise-training in an age and gender-dependent manner.<i> </i><br>**Link:** [https://doi.org/10.1016/j.exger.2018.06.009](https://doi.org/10.1016/j.exger.2018.06.009)<br>**Citations:**   
 
 [^7]: **Title:** Resveratrol promotes neuroprotection and attenuates oxidative and nitrosative stress in the small intestine in diabetic rats<br>**Author(s):** Paulo Emilio Botura Ferreira, Evandro José Beraldi, Stephanie Carvalho Borges, Maria Raquel Marçal Natali, Nilza Cristina Buttow<br>**Institution(s):** Federal University of Pampa, KM 592 BR 472 Road, Uruguaiana, Rio Grande do Sul, 97500-970, Brazil, Departament of Morphological Sciences, State University of Maringá, 5790 Colombo Avenue, Maringá, Paraná, 87020-900, Brazil<br>**Publication:** <i>Biomedicine & Pharmacotherapy</i><br>**Date:** 12 June 2018<br>**Abstract:** <i>Damages to the enteric nervous system caused by diabetes mellitus (DM) are frequently attributed to oxidative and nitrosative stress. We aimed to investigate the effect of Resveratrol (RSV) (10 mg/kg) on oxidative and nitrosative stress in the intestinal wall and morphoquantitative aspects of the myenteric plexus of the duodenum, jejunum and ileum in diabetic rats. Twenty-four rats were distributed into four groups (n = 6/group): control (C group), control treated with RSV (CR group), diabetic (D group), and diabetic treated with RSV (DR group) for 120 days. Immunohistochemical staining techniques for the general neuronal population, nitrergic and calretinin neuronal subpopulations, enteric glial cells and glial fibrillary acid protein were performed in the myenteric plexus. Furthermore, parameters of oxidative and nitrosative stress were analyzed in the intestinal wall. RSV attenuated oxidative and nitrosative stress and prevented neuronal loss and hypertrophy of the HuC/D-IR, nNOS-IR and CALR-IR neuronal subpopulations in the DR group compared with the D group (P < 0.05). In addition, RSV prevented the increase in glial fibrillary acid protein fluorescence in the DR group compared with the D (P < 0.05). These results suggest that RSV has antioxidant and neuroprotective effects in myenteric plexus in rats with experimental DM.</i><br>**Link:** [https://doi.org/10.1016/j.biopha.2018.06.030](https://doi.org/10.1016/j.biopha.2018.06.030)<br>**Citations:**
+
+[^1]: 
+**Title:** [Resveratrol regulates neuro-inflammation and induces adaptive immunity in Alzheimer’s disease](https://doi.org/10.1186/s12974-016-0779-0)<br>
+**Publication:** [Journal of Neuroinflammation](https://jneuroinflammation.biomedcentral.com/)<br>
+**Date:** January 2017<br>
+**Study Type:** Human Study: In Vitro - In Vivo<br>
+**Author(s):** Charbel Moussa, Michaeline Hebron, Xu Huang, Jaeil Ahn, Robert A. Rissman, Paul S. Aisen & R. Scott Turner<br>
+**Institution(s):** Department of Neurology, Laboratory for Dementia and Parkinsonism, Translational Neurotherapeutics Program, National Parkinson’s Foundation Center of Excellence, Georgetown University Medical Center, 4000 Reservoir Road, NW, Washington DC, 20057, USA; Neurotherapeutics Program, Georgetown University, Washington DC, USA; Alzheimer’s Therapeutic Research Institute (ATRI), University of Southern California, San Diego, CA, USA; Alzheimer’s Disease Cooperative Study (ADCS), Department of Neurosciences, University of California, La Jolla, San Diego, CA, USA<br>
+**Abstract:** Background: Treatment of mild-moderate Alzheimer’s disease (AD) subjects (N = 119) for 52 weeks with the SIRT1 activator resveratrol (up to 1 g by mouth twice daily) attenuates progressive declines in CSF Aβ40 levels and activities of daily living (ADL) scores. Methods: For this retrospective study, we examined banked CSF and plasma samples from a subset of AD subjects with CSF Aβ42 <600 ng/ml (biomarker-confirmed AD) at baseline (N = 19 resveratrol-treated and N = 19 placebo-treated). We utilized multiplex Xmap technology to measure markers of neurodegenerative disease and metalloproteinases (MMPs) in parallel in CSF and plasma samples. Results: Compared to the placebo-treated group, at 52 weeks, resveratrol markedly reduced CSF MMP9 and increased macrophage-derived chemokine (MDC), interleukin (IL)-4, and fibroblast growth factor (FGF)-2. Compared to baseline, resveratrol increased plasma MMP10 and decreased IL-12P40, IL12P70, and RANTES. In this subset analysis, resveratrol treatment attenuated declines in mini-mental status examination (MMSE) scores, change in ADL (ADCS-ADL) scores, and CSF Aβ42 levels during the 52-week trial, but did not alter tau levels. Conclusions: Collectively, these data suggest that resveratrol decreases CSF MMP9, modulates neuro-inflammation, and induces adaptive immunity. SIRT1 activation may be a viable target for treatment or prevention of neurodegenerative disorders.<br>
+[IPFS Link](https://ipfs.io/ipfs/QmR98Xgu5QPNd1nW2RDz1Z8RC2wHuqogBTTJ8E5MmtHok8)
 
 <!-- [^1]: 
 **Title:** [ ]( )<br>
