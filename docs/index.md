@@ -5,6 +5,14 @@
 
 ## Latest Research
 
+!!! quote "[Broccoli](/research/natural-healing/broccoli) | Liver Health, Anti-Cancer"
+
+    ### Sulforaphane from broccoli reduces inflammation and liver cancer risk
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/broccoli.jpg" style="border-radius: 5px; float:left; margin: 5px;">Sulforaphane (SF), a broccoli-derived isothiocyanate, inhibits the secretion of pro-inflammatory cytokines. SF was shown to suppress liver inflammation within 24hrs of treatment. SF was not associated with any cellular toxicity, indicating the protective effect of SF against inflammatory responses. This study revealed the potential usage of broccoli-derived SF as a functional food ingredient in attenuating liver inflammation and reducing liver cancer risk development.
+
+    Link: https://doi.org/10.1016/j.jff.2020.104210
+
 !!! quote "[Nigella Sativa (Black Seed Oil)](/research/natural-healing/nigella-sativa), [Resveratrol](/research/natural-healing/resveratrol), [Turmeric](/research/natural-healing/turmeric) | Auto-Immune Disorders, Psoriasis, Skin disorders"
 
     ### Curcumin, Resveratrol, and Thymoquinone effective in the management of psoriasis
