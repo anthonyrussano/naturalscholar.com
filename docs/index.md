@@ -5,6 +5,14 @@
 
 ## Latest Research
 
+!!! quote "[Honey](/research/natural-healing/honey), [Mangosteen](/research/natural-healing/mangosteen), [Black Seed Oil](/research/natural-healing/nigella-sativa), [Curcumin](/research/natural-healing/turmeric) | Antiviral"
+
+    ### Honey, Mangosteen, Black Seed Oil, and Curcumin all binding inhibitors of Covid19
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/honey.jpg" style="border-radius: 5px; float:left; margin: 5px;">Three active compounds from honey, one from mangosteen, and one from black seed oil have scored a binding affinity (to the virus), which is better than lopinavir, the protease drug. Curcumin has shown the best pocket fitting binding affinity of 79%. However mangosteen turns out to be the best possible inhibitor of SARS-CoV-2 (Covid19).
+
+    Link: https://biointerfaceresearch.com/wp-content/uploads/2020/09/20695837113.98279835.pdf
+
 !!! quote "[Broccoli](/research/natural-healing/broccoli) | Liver Health, Anti-Cancer"
 
     ### Sulforaphane from broccoli reduces inflammation and liver cancer risk
