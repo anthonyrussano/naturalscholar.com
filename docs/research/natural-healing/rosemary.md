@@ -23,7 +23,13 @@ tags:
 ---
 # Rosemary
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/rosemary.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Rosemary** (Rosmarinus officinalis) is an aromatic evergreen shrub that belongs to the mint (Lamiaceae) family.[^1]
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/rosemary.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Rosemary** is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region. The plant can live as long as 30 years.
+
+**Scientific Name:** Salvia rosmarinus.  Until 2017, it was known by the scientific name Rosmarinus officinalis.
+
+## Composition
+
+Rosemary contains a number of phytochemicals, including rosmarinic acid, camphor, caffeic acid, ursolic acid, betulinic acid, carnosic acid, and carnosol. Rosemary essential oil contains 10–20% camphor.
 
 ## Healing Properties
 
