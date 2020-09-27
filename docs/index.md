@@ -5,6 +5,14 @@
 
 ## Latest Research
 
+!!! quote "[Polyphenols](/research/natural-healing/polyphenols) | Digestion, Probiotics, Prebiotics"
+
+    ### Polyphenols have prebiotic effects; stimulate the growth of healthy gut microorganisms and increase production of Short Chain Fatty Acids
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/anthocyanins.jpg" style="border-radius: 5px; float:left; margin: 5px;">Consumption of polyphenols, especially catechins, anthocyanins and proanthocyanidins, increases the abundance of Lactobacillus, Bifidobacterium, Akkermansia, Roseburia, and Faecalibacterium spp. Moreover, polyphenols supplementation increased the production of short-chain fatty acids (SCFA), including butyrate. The included clinical trials showed an increased abundance of Lactobacillus acidophilus, Bifidobacterium and Faecalibacterium spp., and a reduction in plasma lipopolysaccharide-binding protein after the consumption of anthocyanins and ellagic acid. In conclusion, there is strong evidence in preclinical studies that dietary polyphenols can stimulate both the growth of microorganisms identified as prebiotic targets and an increase in the production of SCFA. Therefore, clinical trials are warranted to investigate the prebiotic effect of dietary polyphenols on humans.
+
+    Link: https://doi.org/10.1016/j.jff.2020.104169
+
 !!! quote "[Rosemary](/research/natural-healing/rosemary) | Prostate Cancer"
 
     ### Rosemary Extract has potent effects against prostate cancer
