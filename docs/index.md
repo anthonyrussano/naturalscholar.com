@@ -65,7 +65,7 @@
 
     Link: https://doi.org/10.4163/jnh.2019.52.3.258
 
-!!! quote "[Avocado](/research/natural-healing/avocado) | Excercise Recovery, Cardiovascular/Heart Health"
+!!! quote "[Avocado](/research/natural-healing/avocado) | Exercise Recovery, Cardiovascular/Heart Health"
 
     ### Avocados improve cardiovascular and autonomic recovery following submaximal running
 
