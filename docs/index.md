@@ -5,6 +5,14 @@
 
 ## Latest Research
 
+!!! quote "[Echinacea](/research/natural-healing/echinacea) | Breast Cancer"
+
+    ### Echinacea Extract is a potential candidate for breast cancer treatment
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/echinacea.jpg" style="border-radius: 5px; float:left; margin: 5px;">Echinacea displays different biological activities, such as antiviral, immunomodulatory, and anticancer activities. In this study, echinacea extract showed cytotoxic activity on breast cancer cells. No harmfull effects were observed on normal breast cells. Echinacea extract also showed a synergistic effect on cancer cells when used with paclitaxel (a chemotherapy medication).
+
+    Link: https://doi.org/10.1080/01635581.2020.1817956
+
 !!! quote "[Honey](/research/natural-healing/honey), [Mangosteen](/research/natural-healing/mangosteen), [Black Seed Oil](/research/natural-healing/nigella-sativa), [Curcumin](/research/natural-healing/turmeric) | Antiviral"
 
     ### Honey, Mangosteen, Black Seed Oil, and Curcumin all binding inhibitors of Covid19
