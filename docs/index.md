@@ -9,7 +9,7 @@
 
     ### Rosemary Extract has potent effects against prostate cancer
 
-    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/rosemary.jpg" style="border-radius: 5px; float:left; margin: 5px;">It has been previously reported that rosemary extract (RE) has antioxidant, anti-inflammatory and anti-cancer properties. The present study found that treatment of prostate cancer cells with Rosemary Extract resulted in a significant inhibition of proliferation, survival, migration, and tumor cell signaling. Treatment of prostate cancer cells with RE resulted in a significant inhibition of proliferation and survival while RE had no effect on normal prostate epithelial cells. These findings suggest that RE has potent effects against prostate cancer and warrants further investigation.
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/rosemary.jpg" style="border-radius: 5px; float:left; margin: 5px;">It has been previously reported that rosemary extract has antioxidant, anti-inflammatory and anti-cancer properties. The present study found that treatment of prostate cancer cells with Rosemary Extract resulted in a significant inhibition of proliferation, survival, migration, and tumor cell signaling. Treatment of prostate cancer cells with Rosemary Extract resulted in a significant inhibition of proliferation and survival. Normal prostate epithelial cells remained unaffected by Rosemary Extract treatment. These findings suggest that Rosemary Extract has potent effects against prostate cancer and warrants further investigation.
 
     Link: https://doi.org/10.1016/j.biopha.2020.110717
 

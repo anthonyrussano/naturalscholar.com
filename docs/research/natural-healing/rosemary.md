@@ -31,6 +31,8 @@ tags:
 
 Rosemary contains a number of phytochemicals, including rosmarinic acid, camphor, caffeic acid, ursolic acid, betulinic acid, carnosic acid, and carnosol. Rosemary essential oil contains 10–20% camphor.
 
+- The rosemary contains the polyphenols carnosic acid (CA), rosmarinic acid (RA), and carnosol (COH) in high concentrations.[^4]
+
 ## Healing Properties
 
 ### Antimicrobial
@@ -47,6 +49,14 @@ anticonvulsant activity against seizures.[^1]
 
 > Antimutagens are agents that protect DNA from harmful mutations.
 
+### Anticancer
+
+#### Pro-apoptotic and anti-proliferative
+
+- Rosemary Extract has potent effects against prostate cancer.[^4]
+    - Treatment of prostate cancer cells with Rosemary Extract resulted in a significant inhibition of proliferation, survival, migration, and tumor cell signaling. 
+    - Treatment of prostate cancer cells with Rosemary Extract resulted in a significant inhibition of proliferation and survival.
+    - Normal prostate epithelial cells remained unaffected by Rosemary Extract treatment.
 
 ### Antioxidant
 
@@ -96,6 +106,14 @@ Carnosic acid (CA), a major constituent of rosemary extract, has been shown to i
 
 ## Disease / Symptom Treatment
 
+### Cancer
+
+#### Prostate Cancer
+
+- Rosemary Extract has potent effects against prostate cancer.[^4]
+    - Treatment of prostate cancer cells with Rosemary Extract resulted in a significant inhibition of proliferation, survival, migration, and tumor cell signaling. 
+    - Treatment of prostate cancer cells with Rosemary Extract resulted in a significant inhibition of proliferation and survival while Rosemary Extract had no effect on normal prostate epithelial cells.
+
 ### Diabetes
 
 Rosemary Extract improves metabolic abnormalities
@@ -121,6 +139,16 @@ Carnosic acid (CA), a major constituent of rosemary extract, has been shown to i
 **Institution(s):** Targeted Drug Delivery Research Center, Pharmaceutical Technology Institute, Mashhad University of Medical Sciences, Mashhad, Iran; Department of Pharmacodynamics and Toxicology, School of Pharmacy, Mashhad University of Medical Sciences, Mashhad, Iran; Department of Pharmacodynamics and Toxicology, School of Pharmacy, Mashhad University of Medical Sciences, Mashhad, Iran; Department of Pharmacodynamics and Toxicology, School of Pharmacy, Mashhad University of Medical Sciences, Mashhad, Iran; Pharmaceutical Research Center, Pharmaceutical Technology Institute, Mashhad University of Medical Sciences, Mashhad, Iran<br>
 **Abstract:** Olanzapine, an atypical antipsychotic medication, has been associated with weight gain and metabolic toxicity, especially in long term usage. Carnosic acid (CA), a major constituent of rosemary extract, has been shown to improve metabolic abnormalities. In this experiment, the effect of CA on olanzapine-induced obesity and metabolic toxicity has been evaluated. Female Wistar rats were divided into six groups. (1) control; (2) olanzapine (5 mg/kg/day, IP); (3, 4 and 5) olanzapine (5 mg/kg/day, IP) plus CA (5, 10 and 20 mg/kg/day, gavage) and (6) CA (20 mg/kg/day, gavage). Bodyweight and food intake were measured during the study. After 14 days, mean systolic blood pressure (MSBP), glycemia, serum lipid profile, the serum concentration of leptin, insulin, AMPK, P-AMPK, and P-ACC liver protein levels were evaluated. The mean weight in the group received olanzapine increased by 4.8 g at the end of the study. The average food intake was increased by olanzapine. Olanzapine increased triglyceride, fasting blood glucose (FBG), and leptin levels. It increased MSBP and down-regulated P-AMPK/AMPK ratio and P-ACC protein levels. CA (three doses) decreased body weight gain and reduced average food intake at 10 and 20 mg/kg. CA especially at the highest dose decreased the changes in lipid profile, FBG, leptin level, and MSBP. P-AMPK/AMPK and P-ACC protein levels were increased by carnosic acid. In conclusion, the activation of AMPK by CA can be proposed as a key mechanism against olanzapine-induced metabolic toxicity where the activation of AMPK increases fat consumption and regulates glucose hemostasis in the liver.<br>
 [IPFS Link](https://ipfs.io/ipfs/QmUNfe49jWCBbZ1wyS8oFGMezbxqsCwuzbtXW6XYB9L6Pa)
+
+[^4]: 
+**Title:** [Rosemary (Rosmarinus officinalis L.) extract inhibits prostate cancer cell proliferation and survival by targeting Akt and mTOR](https://doi.org/10.1016/j.biopha.2020.110717)<br>
+**Publication:** [Biomedicine & Pharmacotherapy](https://www.sciencedirect.com/science/journal/07533322)<br>
+**Date:** September 2020<br>
+**Study Type:** Human Study: In Vitro<br>
+**Author(s):** Alina Jaglanian, Deborah Termini, Evangelia Tsiani<br>
+**Institution(s):** Department of Health Sciences, Brock University, St. Catharines, ON, L2S 3A1, Canada; Centre for Bone and Muscle Health, Brock University, St. Catharines, ON, L2S 3A1, Canada<br>
+**Abstract:** Prostate cancer is the most commonly diagnosed type of cancer in North American men and is typically classified as either androgen receptor positive or negative depending on the expression of the androgen receptor (AR). AR positive prostate cancer can be treated with hormone therapy while AR negative prostate cancer is aggressive and does not respond to hormone therapy. It has been previously reported that rosemary extract (RE) has antioxidant, anti-inflammatory and anti-cancer properties. In the present study, we found that treatment of the androgen-insensitive PC-3 prostate cancer cells with RE resulted in a significant inhibition of proliferation, survival, migration, Akt, and mTOR signaling. In addition, treatment of the androgen-sensitive 22RV1 prostate cancer cells with RE resulted in a significant inhibition of proliferation and survival while RE had no effect on normal prostate epithelial PNT1A cells. These findings suggest that RE has potent effects against prostate cancer and warrants further investigation.<br>
+[IPFS Link](https://ipfs.io/ipfs/QmaVGLGjDWbhp1S1hH2gM9e2msw9dg5dDyucyz39anEQXH)
 
 <!-- [^1]: 
 **Title:** [ ]( )<br>
