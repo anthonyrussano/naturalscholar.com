@@ -11,6 +11,16 @@
 
 !!! quote ""
 
+    ### Mulberry fruit supports weight loss and protects against fatty liver disease
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/mulberry.jpg" style="border-radius: 5px; float:left; margin: 5px;">Mulberry fruit has been reported to effectively reduce body weight by preventing visceral fat accumulation and limiting food intake.  Dried Mulberry fruit Powder supplementation has anti-obesity properties and also improves liver lipid profile, thus it can be developed as a food supplement for weight control and prevention against liver lipid accumulation (fatty liver disease) resulting from a high fat diet
+
+    Source: [Naresuan University, Thailand](http://www.journal.nu.ac.th/NUJST/article/view/Vol-29-No-2-2021-43-53)
+
+    Research: [Mulberry](/research/natural-healing/mulberry)
+
+!!! quote ""
+
     ### Polyphenols have prebiotic effects; stimulate the growth of healthy gut microorganisms and increase production of Short Chain Fatty Acids
 
     <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/anthocyanins.jpg" style="border-radius: 5px; float:left; margin: 5px;">Consumption of polyphenols, especially catechins, anthocyanins and proanthocyanidins, increases the abundance of Lactobacillus, Bifidobacterium, Akkermansia, Roseburia, and Faecalibacterium spp. Moreover, polyphenols supplementation increased the production of short-chain fatty acids (SCFA), including butyrate. The clinical trials showed an increased abundance of Lactobacillus acidophilus, Bifidobacterium and Faecalibacterium spp., and a reduction in plasma lipopolysaccharide-binding protein after the consumption of anthocyanins and ellagic acid. In conclusion, there is strong evidence in preclinical studies that dietary polyphenols can stimulate both the growth of microorganisms identified as prebiotic targets and an increase in the production of SCFA.
