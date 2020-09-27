@@ -4,7 +4,7 @@
     Today is <span id="demo"></span>
 
 !!! tip ""
-    Your donation helps us grow! :seedling:<br>
+    Your donations help us grow! :seedling:<br>
     **Bitcoin:** bc1qtnvgnagwxzwlxywrjrc7l29kt23la3nfj8jvls
 
 ## Latest Research
