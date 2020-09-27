@@ -1,6 +1,10 @@
 # Archive
 
-!!! quote "[Resveratrol](/research/natural-healing/resveratrol) | Alzheimer's, Brain Health, Immune System Response"
+!!! tip ""
+    Your donation helps us grow! :seedling:<br>
+    **Bitcoin:** bc1qtnvgnagwxzwlxywrjrc7l29kt23la3nfj8jvls
+
+!!! quote ""
 
     ### Resveratrol for Alzheimer's may prevent neuronal death, stop amyloid deposition, and promote blood brain barrier inegrity
 
@@ -8,9 +12,11 @@
 
     Resveratrol treatment has been shown to preserve the integrity of the blood-brain barrier (BBB) in Alzheimer's Disease (AD) patients. Resveratrol also induced adaptive immune responses that promoted brain resilience to amyloid deposition.  Resveratrol may slow cognitive decline in AD, and may arrest neuronal death.  Resveratrol may seal off a leaky blood brain barrier and contribute to cognitive and functional improvement.
 
-    Link: https://doi.org/10.1186/s12974-016-0779-0
+    Source: https://doi.org/10.1186/s12974-016-0779-0
+    
+    Research: [Resveratrol](/research/natural-healing/resveratrol)
 
-!!! quote "[Vitamin D](/research/natural-healing/vitamin-d) | Cancer Prevention"
+!!! quote ""
 
     ### Vitamin D supplementation reduces risk of cancer death by 16%
 
@@ -18,9 +24,11 @@
 
     Vitamin D supplementation reduced the risk of cancer death by 16%. A total of 75,454 participants were identified. Vitamin D supplementation statistically significantly reduced the risk of cancer death. In subgroup analyses, all cause mortality was significantly lower in trials with vitamin D3 supplementation than in trials with vitamin D2 supplementation.
     
-    Link: https://doi.org/10.1136/bmj.l4673
+    Source: https://doi.org/10.1136/bmj.l4673
 
-!!! quote "[Rosemary](/research/natural-healing/rosemary/) | Diabetes, Matabolism"
+    Research: [Vitamin D](/research/natural-healing/vitamin-d)
+
+!!! quote ""
 
     ### Rosemary Extract improves metabolic abnormalities
 
@@ -30,6 +38,4 @@
     
     Link: https://link.springer.com/article/10.1007/s11033-020-05825-5
 
-!!! tip "Donate Bitcoin"
-    Help us grow! :seedling:<br>
-    **BTC Wallet Address:** bc1qtnvgnagwxzwlxywrjrc7l29kt23la3nfj8jvls
+    Research: [Rosemary](/research/natural-healing/rosemary/)
