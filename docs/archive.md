@@ -1,7 +1,6 @@
 # Archive
 
-!!! tip ""
-    Your donations help us grow! :seedling:<br>
+??? tip "Your donations help us grow! :seedling:"
     **Bitcoin:** bc1qtnvgnagwxzwlxywrjrc7l29kt23la3nfj8jvls
 
 !!! quote ""
