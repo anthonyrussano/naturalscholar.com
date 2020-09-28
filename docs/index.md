@@ -1,14 +1,11 @@
 # Welcome to Natural Scholar
 
-!!! note ""
-    Today is <span id="demo"></span>
-
 ??? tip "Your donations help us grow! :seedling:"
     **Bitcoin:** bc1qtnvgnagwxzwlxywrjrc7l29kt23la3nfj8jvls
 
 ## Latest Research
 
-!!! quote ""
+!!! quote "September 27, 2020"
 
     ### Mulberry fruit supports weight loss and protects against fatty liver disease
 
@@ -16,9 +13,9 @@
 
     Source: [Naresuan University, Thailand](http://www.journal.nu.ac.th/NUJST/article/view/Vol-29-No-2-2021-43-53)
 
-    Research: [Mulberry](/research/natural-healing/mulberry)
+    Research: [Mulberry](research/natural-healing/mulberry)
 
-!!! quote ""
+!!! quote "September 27, 2020"
 
     ### Polyphenols have prebiotic effects; stimulate the growth of healthy gut microorganisms and increase production of Short Chain Fatty Acids
 
@@ -26,9 +23,9 @@
 
     Source: https://doi.org/10.1016/j.jff.2020.104169
 
-    Research: [Polyphenols](/research/natural-healing/polyphenols)
+    Research: [Polyphenols](research/natural-healing/polyphenols)
 
-!!! quote ""
+!!! quote "September 26, 2020"
 
     ### Rosemary Extract has potent effects against prostate cancer
 
@@ -36,9 +33,9 @@
 
     Source: https://doi.org/10.1016/j.biopha.2020.110717
     
-    Research: [Rosemary](/research/natural-healing/rosemary)
+    Research: [Rosemary](research/natural-healing/rosemary)
 
-!!! quote ""
+!!! quote "September 25, 2020"
 
     ### Echinacea Extract is a potential candidate for breast cancer treatment
 
@@ -46,9 +43,9 @@
 
     Source: https://doi.org/10.1080/01635581.2020.1817956
 
-    Research: [Echinacea](/research/natural-healing/echinacea)
+    Research: [Echinacea](research/natural-healing/echinacea)
 
-!!! quote ""
+!!! quote "September 25, 2020"
 
     ### Honey, Mangosteen, Black Seed Oil, and Curcumin all binding inhibitors of Covid19
 
@@ -56,9 +53,9 @@
 
     Source: https://biointerfaceresearch.com/wp-content/uploads/2020/09/20695837113.98279835.pdf
 
-    Research: [Honey](/research/natural-healing/honey), [Mangosteen](/research/natural-healing/mangosteen), [Black Seed Oil](/research/natural-healing/nigella-sativa), [Curcumin](/research/natural-healing/turmeric)
+    Research: [Honey](research/natural-healing/honey), [Mangosteen](research/natural-healing/mangosteen), [Black Seed Oil](research/natural-healing/nigella-sativa), [Curcumin](research/natural-healing/turmeric)
 
-!!! quote ""
+!!! quote "September 24, 2020"
 
     ### Sulforaphane from broccoli reduces liver inflammation and liver cancer risk
 
@@ -66,9 +63,9 @@
 
     Source: https://doi.org/10.1016/j.jff.2020.104210
 
-    Research: [Broccoli](/research/natural-healing/broccoli)
+    Research: [Broccoli](research/natural-healing/broccoli)
 
-!!! quote ""
+!!! quote "September 23, 2020"
 
     ### Curcumin, Resveratrol, and Thymoquinone effective in the management of psoriasis
 
@@ -76,9 +73,9 @@
 
     Source: https://doi.org/10.1007/s13346-020-00852-y
 
-    Research: [Nigella Sativa (Black Seed Oil)](/research/natural-healing/nigella-sativa), [Resveratrol](/research/natural-healing/resveratrol), [Turmeric](/research/natural-healing/turmeric)
+    Research: [Nigella Sativa (Black Seed Oil)](research/natural-healing/nigella-sativa), [Resveratrol](research/natural-healing/resveratrol), [Turmeric](research/natural-healing/turmeric)
 
-!!! quote ""
+!!! quote "September 23, 2020"
 
     ### Beverages Rich in Resveratrol and Physical Activity Attenuate Metabolic Changes Induced by High-Fat Diet
 
@@ -88,9 +85,9 @@
 
     Source: https://doi.org/10.1080/07315724.2020.1805374
 
-    Research: [Grapes](/research/natural-healing/grapes), [Resveratrol](/research/natural-healing/resveratrol)
+    Research: [Grapes](research/natural-healing/grapes), [Resveratrol](research/natural-healing/resveratrol)
 
-!!! quote ""
+!!! quote "September 22, 2020"
 
     ### Cordyceps Supplementation has positive effects on immune response 
 
@@ -100,9 +97,9 @@
 
     Source: https://doi.org/10.4163/jnh.2019.52.3.258
 
-    Research: [Cordyceps](/research/natural-healing/cordyceps)
+    Research: [Cordyceps](research/natural-healing/cordyceps)
 
-!!! quote ""
+!!! quote "September 21, 2020"
 
     ### Avocados improve cardiovascular and autonomic recovery following submaximal running
 
@@ -112,7 +109,7 @@
 
     Source: https://doi.org/10.1038/s41598-020-67577-3
 
-    Research: [Avocado](/research/natural-healing/avocado)
+    Research: [Avocado](research/natural-healing/avocado)
 
 !!! quote ""
 
@@ -124,7 +121,7 @@
 
     Source: http://dx.doi.org/10.2174/1874285802014010205
 
-    Research: [Rosemary](/research/natural-healing/rosemary), [Ginger](/research/natural-healing/ginger)
+    Research: [Rosemary](research/natural-healing/rosemary), [Ginger](research/natural-healing/ginger)
 
 !!! quote ""
 
@@ -136,7 +133,7 @@
     
     Source: https://doi.org/10.1080/19390211.2020.1780363
 
-    Research: [Red Chili Peppers](/research/natural-healing/cayenne)
+    Research: [Red Chili Peppers](research/natural-healing/cayenne)
 
 !!! quote ""
 
@@ -148,7 +145,7 @@
     
     Source: https://doi.org/10.31989/ffhd.v9i8.636
 
-    Research: [Astaxanthin](/research/natural-healing/astaxanthin)
+    Research: [Astaxanthin](research/natural-healing/astaxanthin)
 
 !!! quote ""
 
@@ -160,7 +157,7 @@
     
     Source: https://doi.org/10.3892/etm.2020.8943
 
-    Research: [Turmeric](/research/natural-healing/turmeric)
+    Research: [Turmeric](research/natural-healing/turmeric)
 
 !!! quote ""
 
@@ -172,9 +169,4 @@
     
     Source: https://doi.org/10.3390/nu12082194
 
-    Research: [Mango Leaf Extract](/research/natural-healing/mango)
-
-<script>
-var d = new Date();
-document.getElementById("demo").innerHTML = d.toDateString();
-</script>
+    Research: [Mango Leaf Extract](research/natural-healing/mango)
