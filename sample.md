@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome
 
 <figure>
   <img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
