@@ -5,6 +5,16 @@
 
 ## Latest Research
 
+!!! quote "September 28, 2020"
+
+    ### Anti-skin aging activities of Green tea are three-fold
+
+    <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/green tea.jpg" style="border-radius: 5px; float:left; margin: 5px;">Green tea extract (composed mainly of epigallocatechin gallate, epigallocatechin, and epicatechin gallate) exhibited positive activities against skin aging, including significant suppression of melanin production, potent antioxidant activities, and significant matrix metalloproteinase-2 (MMP2) inhibition (MMP2 is an enzyme  involved in the breakdown of the extracellular collagen matrix). The study results have shown that green tea is a functional plant for utilisation as an anti-skin aging agent in the natural remedies, including food, health, and cosmetic products.
+
+    Source: [Mae Fah Luang University, Thailand | European Journal of Integrative Medicine](https://doi.org/10.1016/j.eujim.2020.101212)
+
+    Research: [Green Tea](research/natural-healing/green-tea)
+
 !!! quote "September 27, 2020"
 
     ### Mulberry fruit supports weight loss and protects against fatty liver disease
