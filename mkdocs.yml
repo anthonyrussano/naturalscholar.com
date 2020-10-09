@@ -12,8 +12,6 @@ theme:
     accent: light green
   features:
     - instant
-    - tabs
-    - navigation.expand
 
 # Plugins
 # Extensions
