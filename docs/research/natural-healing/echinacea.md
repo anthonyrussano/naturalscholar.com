@@ -7,7 +7,7 @@ tags:
 ---
 # Echinacea
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acai.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Echinacea**[^1]
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/echinacea.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Echinacea**[^1]
 
 ## Healing Properties
 
