@@ -18,7 +18,6 @@ tags:
 - Nausea
 - Bioenhancer
 - Antithrombotic
-
 ---
 # Ginger
 
@@ -26,28 +25,53 @@ tags:
 
 ## Healing Properties
 
-- **Analgesic:**
-- **Antiinflammatory:**
-- **Antimicrobial:**
-- **Blood Pressure:** Improves Blood Flow and Blood Pressure Regulation.
-- **Carminative:**[^1]
-- **Diffusive:**
-- **Digestion:**
-  - **Antiulcer:**
-  - The major active component of ginger is gingerol, which has been shown to increase the motility of the gastrointestinal tract.[^2]
-  - **Bioavailability:** Ginger provides bioavailability activity in a range of 30-75%[^2]
-- **Bioenhancer:** Ginger increases the bioavailability of different antibiotics (azithromycin, erythromycin, cephalexin, cefadroxil, amoxicillin, and cloxacillin).[^2]
-- **Heart Health:**
-- **Rubefacient:**
-- **Stimulating Diaphoretic:**
-- **Stimulating Expectorant:**
-- **Vermifuge:**
-- **Antipyretic:** Ginger has been shown to help reduce fever.[^1]
+### Analgesic
+
+### Antiinflammatory
+
+### Antimicrobial
+
+### Antipyretic
+
+Ginger has been shown to help reduce fever.[^1]
+
+### Blood Pressure
+
+Improves Blood Flow and Blood Pressure Regulation.
+
+### Carminative
+
+### Diffusive
+
+### Digestion
+
+#### Antiulcer
+
+The major active component of ginger is gingerol, which has been shown to increase the motility of the gastrointestinal tract.[^2]
+
+#### Bioavailability
+
+Ginger provides bioavailability activity in a range of 30-75%[^2]
+
+#### Bioenhancer
+
+Ginger increases the bioavailability of different antibiotics (azithromycin, erythromycin, cephalexin, cefadroxil, amoxicillin, and cloxacillin).[^2]
+
+### Heart Health
+
+### Rubefacient
+
+### Stimulating Diaphoretic
+
+### Stimulating Expectorant
+
+### Vermifuge
 
 ## Disease / Symptom Treatment
 
-- **Infections:**
-- **Nausea:**
+### Infections
+
+### Nausea
 
 [^1]: Forêt, Rosalee de la. Alchemy of Herbs: Transform Everyday Ingredients into Foods and Remedies That Heal. Hay House, Inc., 2017. **Citations:**   
 
