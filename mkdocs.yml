@@ -12,6 +12,7 @@ theme:
     accent: light green
   features:
     - instant
+    - toc.autohide
 
 # Plugins
 # Extensions
@@ -27,8 +28,6 @@ markdown_extensions:
   - markdown.extensions.footnotes
   - markdown.extensions.meta
   - markdown.extensions.attr_list
-  - markdown.extensions.toc:
-      permalink: true
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
