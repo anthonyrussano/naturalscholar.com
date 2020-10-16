@@ -56,7 +56,7 @@ Green tea is known for its high content in tannins.  These tannins greatly inhib
 
 #### Endothelial Health
 
-The molecule [EGCG](/epigallocatechin-gallate) has the ability to bind to proteins found in plaques linked to coronary artery disease and make them more soft and pliable making it easier for blood to flow through arteries and veins.[^1]
+The molecule [EGCG](../epigallocatechin-gallate) has the ability to bind to proteins found in plaques linked to coronary artery disease and make them more soft and pliable making it easier for blood to flow through arteries and veins.[^1]
 
 ## Disease / Symptom Treatment
 
