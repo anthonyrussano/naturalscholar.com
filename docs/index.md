@@ -8,6 +8,15 @@
 
 # Welcome to Natural Scholar
 
+!!! quote "Published September 30, 2020"
+
+    ### **[Alpha Lipoic Acid](../research/natural-healing/lipoic-acid)** Attenuates Inflammatory Response in the Brain
+
+    <img loading="lazy" src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/lipoic acid.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+    This study suggest that α-Lipoic Acid is a therapeutic agent against neuroinflammatory responses.  Alpha-Lipoic Acid has been suggested to have anti-dementia and anti-Alzheimer's Disease properties due to several actions, such as scavenging the reactive oxygen species (ROS), reducing inflammatory processes, and regenerating endogenous antioxidants.
+
+    Source(s): [Konyang University, Daejeon, Korea | Korean Journal of Clinical Laboratory Science](https://doi.org/10.15324/kjcls.2020.52.3.253)
+
 !!! quote "Published October 10, 2020"
 
     ### Uncooked **[Quinoa](../research/natural-healing/quinoa)** seeds and sprouts contain a toxic protein
