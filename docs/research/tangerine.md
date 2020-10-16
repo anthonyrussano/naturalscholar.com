@@ -6,6 +6,8 @@ tags:
 
 <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/tangerine.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Tangerine**[^1]
 
+https://res.cloudinary.com/alchemist-cookbook/image/upload/v1602823213/healing-items/tangerine.jpg
+
 ## Healing Properties
 
 - **Alkalizing:**
