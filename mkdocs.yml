@@ -12,7 +12,6 @@ theme:
     accent: light green
   features:
     - instant
-    - toc.autohide
 
 # Plugins
 # Extensions
