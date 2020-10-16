@@ -8,6 +8,16 @@
 
 # Welcome to Natural Scholar
 
+!!! quote "Published October 10, 2020"
+
+    ### Uncooked **[Quinoa](../research/natural-healing/quinoa)** seeds and sprouts contain a toxic protein
+
+    <img loading="lazy" src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Quinoa.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+    This study found the presence of toxic proteins in quinoa seeds.  These toxic proteins demonstrated a loss of activity after 10-min incubation at 70°C. Considering that quinoa seeds are used as a food, we found that quinoin is cytotoxic against human fibroblasts and human keratinocytes. This toxin was found in seeds and in sprouted seeds. We suggest a thermal treatment of quinoa seeds before consumption in order to inactivate the toxin, particularly in sprouts, generally consumed raw.
+
+    Source(s): [University of Campania ‘Luigi Vanvitelli’, Via Vivaldi, Italy; University of Naples, Italy | Journal of Food Chemistry](https://doi.org/10.1016/j.foodchem.2020.128337)
+
+
 !!! quote "October 5, 2020"
 
     ### **[Bael Fruit](../research/natural-healing/bael-fruit)** tea is a rich source of antioxidants that may help control the complications of type 2 diabetes
