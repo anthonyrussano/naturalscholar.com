@@ -9,7 +9,7 @@
 # Welcome to Natural Scholar
 
 ??? tip "Nota Bene"
-    Help us grow :seedling: Your donation is greatly appreciated!<br>
+    Help us grow :seedling: Your donation is greatly appreciated!<br><br>
     **Bitcoin:** bc1qy69sl22pp7qfkksaxwp67zxkusjlhj0dfss9df<br>
     **Ethereum:** 0x9842da585e3d4c690a91c2015a8807512ee9f556<br>
     **Litecoin:** ltc1qa7r3l6h02wew6et6lwvvgylv9rjsedcmwnwce7<br><br>
