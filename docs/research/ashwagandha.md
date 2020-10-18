@@ -26,7 +26,9 @@ tags:
 ---
 # Ashwagandha
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/ashwagandha.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Ashwagandha** has "the ability to both strengthen those who are tired and calm those who are stressed and anxious.”
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/ashwagandha.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Ashwagandha** (Withania somnifera) is a plant in the Solanaceae or nightshade family.
+
+Also known as Indian ginseng, poison gooseberry, or winter cherry,
 
 ## Composition
 
