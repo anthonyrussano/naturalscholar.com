@@ -4,9 +4,11 @@
 
 ## [Anthocyanins](../anthocyanins)
 
-## [Catechins](../catechins)
+## [Flavonoids](../flavoinoids)
 
-### [Epigallocatechin gallate (EGCG)](../epigallocatechin-gallate)
+### [Catechins](../catechins)
+
+#### [Epigallocatechin gallate (EGCG)](../epigallocatechin-gallate)
 
 ## [Ellagic acid](../ellagic-acid)
 

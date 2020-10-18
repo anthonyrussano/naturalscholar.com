@@ -1,22 +1,24 @@
 # Antiviral
 
-Natural compounds isolated from medicinal plants for antiviral activity:[^1]
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/antiviral.jpg" style="border-radius: 5px; float:left; margin: 5px;">Many natural compounds have been isolated from medicinal plants for their antiviral activity.[^1]
 
-Lycorine (1)
+## Lycorine
 
-Kaempferol (2)
+## Kaempferol
 
 ## [Quercetin](../quercetin)
 
-Luteolin‐7‐glucoside (4)
+## Luteolin‐7‐glucoside
 
-Demethoxycurcumin (5)
+## Demethoxycurcumin
 
-Naringenin (6)
+## [Naringenin](../naringenin)
 
-Apigenin‐7‐glucoside (7)
+## Apigenin‐7‐glucoside
 
-Oleuropein (8)
+## Oleuropein
+
+Oleuropein is a type of phenolic bitter compound found in green olive skin, flesh and seeds, leaves, and argan oil. The term oleuropein is derived from the botanical name of the olive tree, Olea europaea. 
 
 ## [Curcumin](../curcumin)
 
@@ -24,17 +26,17 @@ Oleuropein (8)
 
 ## [Epigallocatechin‐gallate (EGCG)](../epigallocatechin-gallate)
 
-Zingerol (12)
+## Zingerol
 
-Gingerol (13)
+## Gingerol
 
-Allicin (14)
+## Allicin
 
-Hesperidin (15)
+## Hesperidin
 
-Diammonium glycyrrhizinate (16)
+## Diammonium glycyrrhizinate
 
-Amentoflavone (17)
+## Amentoflavone
 
 Betulinic acid (18)
 
