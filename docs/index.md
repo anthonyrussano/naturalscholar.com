@@ -15,7 +15,7 @@
     **Litecoin:** ltc1qa7r3l6h02wew6et6lwvvgylv9rjsedcmwnwce7<br><br>
     **Contact:** admin@naturalscholar.com
 
-!!! quote "Published September 30, 2020"
+!!! quote "October 15, 2020"
 
     ### **[Alpha Lipoic Acid](./research/lipoic-acid)** Attenuates Inflammatory Response in the Brain
 
