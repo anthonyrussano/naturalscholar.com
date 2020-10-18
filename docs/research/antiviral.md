@@ -6,7 +6,7 @@ Lycorine (1)
 
 Kaempferol (2)
 
-Quercetin (3)
+## [Quercetin](../quercetin)
 
 Luteolin‐7‐glucoside (4)
 
@@ -18,11 +18,11 @@ Apigenin‐7‐glucoside (7)
 
 Oleuropein (8)
 
-Curcumin (9)
+## [Curcumin](../curcumin)
 
-Catechin (10)
+## [Catechin](../catechin)
 
-Epigallocatechin‐gallate (11)
+## [Epigallocatechin‐gallate (EGCG)](../epigallocatechin-gallate)
 
 Zingerol (12)
 

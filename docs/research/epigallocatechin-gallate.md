@@ -7,19 +7,21 @@ tags:
 - Cardiovascular Health
 - Heart Health
 ---
-# Epigallocatechin gallate (EGCG)
+# Epigallocatechin gallate
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Epigallocatechin gallate.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Epigallocatechin gallate** is a is a polyphenol.  It is a type of catechin, the most abundant catechin found in tea.
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Epigallocatechin gallate.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Epigallocatechin gallate** (EGCG) is a is a [polyphenol](../polyphenols).  It is a type of flavanol, specifically a type of [catechin](../catechin), the most abundant catechin found in tea. However, the compound is significantly degraded by steeping in boiling water, unlike related catechins.
 
 ## Healing Properties
 
-### Anorexigenic
+### Digestion
 
-Reduces appetite, resulting in lower food consumption, leading to weight loss.[^2]
+#### Weight Loss
 
-- EGCG & caffeine induces not only suppression of fat accumulation but also strong anorexigenic action.
-- The anorexigenic effect may be brought about via inhibiting gastric motility.
-- The combination of EGCG also suppresses body weight gain and fat accumulation.[^2]
+The combination of EGCG and Caffein suppresses body weight gain and fat accumulation.[^2]
+
+##### Anorexigenic (appetite reduction)
+
+EGCG and caffeine has been shown to induce suppression of fat accumulation and a strong anorexigenic action. The anorexigenic effect may be brought about via inhibiting gastric motility.[^2]
 
 ## Disease / Symptom Treatment
 
