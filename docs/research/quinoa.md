@@ -27,13 +27,13 @@ Thermal treatment of quinoa seeds and sprouts (minimum 10-min incubation at 70°
 
 ## Healing Properties
 
+### Heart Health 
+
+#### Cardiovascular Disease (CVD)
+
 ### Weight Loss
 
 Quinoa seed supplementation significantly lowered the body weight.[^2]
-
-## Disease / Symptom Treatment
-
-### Cardiovascular Disease (CVD)
 
 [^1]: 
 **Title:** [Quinoa as source of type 1 ribosome inactivating proteins: a novel knowledge for a revision of its consumption](https://doi.org/10.1016/j.foodchem.2020.128337)<br>

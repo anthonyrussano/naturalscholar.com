@@ -54,9 +54,27 @@ Green tea is known for its high content in tannins.  These tannins greatly inhib
 
 ### Cardioprotective
 
+!!! quote ""
+
+    Green Tea Extract Improves Heart Muscle and May Help Treat Cardiomyopathies by Improving Mitochondrial Function
+
+    Previous studies have shown long-term in vivo administration of green tea catechin extract (GTE) resulted in an improvement of heart cell mechanical properties measured by a significant increase in hyperdynamic cardiomyocyte contractility (an increase in the rate of shortening and re-lengthening of heart muscle cells, more specifically the fraction of shortening due to the amplitude of calcium transient, and the rate of cytosolic calcium removal). In this study, cellular bioenergetics was found to be significantly improved by measuring the maximal mitochondrial respiration rate and the cellular ATP level. Notably, the improvement of mitochondrial function was associated with increased levels of oxidative phosphorylation complexes, whereas the cellular mitochondrial mass was unchanged. GTE supplementation improved cardiomyocyte mechanics and intracellular calcium dynamics, by lowering the expression of total phospholamban (PLB), which led to an increase of both the phosphorylated-PLB/PLB and the sarco-endoplasmic reticulum calcium ATPase/PLB ratios. These findings suggest that GTE might be a valuable adjuvant tool for counteracting the occurrence and/or the progression of cardiomyopathies in which mitochondrial dysfunction and alteration of intracellular calcium dynamics constitute early pathogenic factors.
+
+    Source(s): [University of Parma, Italy | Cellular Physiology and Biochemistry](https://doi.org/10.1159/000490219), [University of Parma, Italy | MDPI, Nutrients](https://doi.org/10.3390/nu12102949)
+
 #### Endothelial Health
 
 The molecule [EGCG](../epigallocatechin-gallate) has the ability to bind to proteins found in plaques linked to coronary artery disease and make them more soft and pliable making it easier for blood to flow through arteries and veins.[^1]
+
+### Skin Health
+
+!!! quote ""
+
+    Green Tea's Anti-skin aging activities are three-fold
+
+    Green tea extract (composed mainly of epigallocatechin gallate, epigallocatechin, and epicatechin gallate) has shown positive activities against skin aging, including significant suppression of melanin production, potent antioxidant activities, and significant matrix metalloproteinase-2 (MMP2) inhibition (MMP2 is an enzyme involved in the breakdown of the extracellular collagen matrix). The study results have shown that green tea is a functional plant for utilisation as an anti-skin aging agent in the natural remedies, including food, health, and cosmetic products.
+
+    Source: [Mae Fah Luang University, Thailand | European Journal of Integrative Medicine](https://doi.org/10.1016/j.eujim.2020.101212)
 
 ## Disease / Symptom Treatment
 
@@ -75,6 +93,16 @@ Camellia sinensis extract shows high antibacterial activity against gram positiv
 ### Heart Disease
 
 Helps reduce the Risk of Heart Attack.
+
+#### Cardiomyapthy
+
+!!! quote ""
+
+    Green Tea Extract Improves Heart Muscle and May Help Treat Cardiomyopathies by Improving Mitochondrial Function
+
+    Previous studies have shown long-term in vivo administration of green tea catechin extract (GTE) resulted in an improvement of heart cell mechanical properties measured by a significant increase in hyperdynamic cardiomyocyte contractility (an increase in the rate of shortening and re-lengthening of heart muscle cells, more specifically the fraction of shortening due to the amplitude of calcium transient, and the rate of cytosolic calcium removal). In this study, cellular bioenergetics was found to be significantly improved by measuring the maximal mitochondrial respiration rate and the cellular ATP level. Notably, the improvement of mitochondrial function was associated with increased levels of oxidative phosphorylation complexes, whereas the cellular mitochondrial mass was unchanged. GTE supplementation improved cardiomyocyte mechanics and intracellular calcium dynamics, by lowering the expression of total phospholamban (PLB), which led to an increase of both the phosphorylated-PLB/PLB and the sarco-endoplasmic reticulum calcium ATPase/PLB ratios. These findings suggest that GTE might be a valuable adjuvant tool for counteracting the occurrence and/or the progression of cardiomyopathies in which mitochondrial dysfunction and alteration of intracellular calcium dynamics constitute early pathogenic factors.
+
+    Source(s): [University of Parma, Italy | Cellular Physiology and Biochemistry](https://doi.org/10.1159/000490219), [University of Parma, Italy | MDPI, Nutrients](https://doi.org/10.3390/nu12102949)
 
 ### Obesity
 

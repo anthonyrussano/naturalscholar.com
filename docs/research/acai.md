@@ -57,7 +57,13 @@ Acai administration significantly increased the levels of the hematopoietic-rela
 
 ### Hypoglycemic
 
-### Vascular Function
+### Heart Health
+
+- Acai Seed Extract's ability to induce endothelium dependent vasodilation may help treat hypertension, atherosclerosis, and heart failure.[^1]
+
+- Acai treatment has been shown to improve cardiac dysfunction following myocardial infarction.[^3]
+
+#### Vascular Function
 
 #### Kidney Function
 
@@ -77,17 +83,9 @@ Acai Seed Extract has been shown to induce endothelium dependent vasodilation (w
 
  Acai is rich in anthocyanidin and chrysanthemin (cyanidin-3-glucoside) which have been shown to inhibit the growth of E. coli and promote the growth of probiotic (beneficial) strains of microorganisms.
 
-## Disease / Symptom Treatment
-
 ### Fatty Liver (hepatic steatosis)
 
 Acai treatment has been shown to provide protection from fatty liver disease (hepatic steatosis).[^3]
-
-### Heart Disease
-
-- Acai Seed Extract's ability to induce endothelium dependent vasodilation may help treat hypertension, atherosclerosis, and heart failure.[^1]
-
-- Acai treatment has been shown to improve cardiac dysfunction following myocardial infarction.[^3]
 
 ### Metabolic Syndrome
 
@@ -95,7 +93,7 @@ Acai treatment has been shown to provide protection from fatty liver disease (he
 
 Acai treatment has been shown to prevent brain oxidative damage.[^3]
 
-### Obesity
+### Weight Loss (Obesity)
 
 Acai treatment has been shown to provide protection from diet-induced obesity.[^3]
 
