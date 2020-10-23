@@ -64,6 +64,12 @@ Capable of stopping bleeding when applied to a wound.
 
 ### Weight Loss
 
+Red Chili Extract has significant improvement on Overweight Subjects
+
+The present study used food-grade red chilies (Capsicum annum and Capsicum frutescens) and made a sustained-release formulation of capsaicinoids-rich red chili extract using fenugreek dietary fiber.  This mixture demonstrated a significant reduction in anthropometric parameters such as body weight (2.1%), w/h ratio (4%), and BMI (2.2%) along with the improvement in eating behaviour as well as appetite, indicated the potential body weight management effect. Appetite analysis revealed a significant improvement in uncontrolled eating and reduction in appetite. 
+    
+Source: https://doi.org/10.1080/19390211.2020.1780363
+
 ## Disease / Symptom Treatment
 
 ### Arthritis

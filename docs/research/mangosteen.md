@@ -8,6 +8,14 @@ tags:
 
 ## Healing Properties
 
+Mangosteen binding inhibitors of Covid19
+
+Active compound from mangosteen scored a binding affinity (to the virus), which is better than lopinavir, the protease drug. 
+
+Mangosteen turns out to be the best possible inhibitor of SARS-CoV-2 (Covid19).
+
+Source: https://biointerfaceresearch.com/wp-content/uploads/2020/09/20695837113.98279835.pdf
+
 ## Disease / Symptom Treatment
 
 [^1]: **Title:** <br>**Author(s):**  <br>**Institution(s):** <br>**Publication:** <i> </i><br>**Date:** <br>**Abstract:** <i> </i><br>**Link:** []()<br>**Citations:**   

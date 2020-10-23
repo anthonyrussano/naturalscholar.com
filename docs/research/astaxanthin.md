@@ -116,6 +116,12 @@ Astaxanthin's antioxidant and neuroprotective properties can help attenuate the 
 
 ### Fatigue
 
+Astaxanthin reduces depression and fatigue in healthy subjects
+
+Natural astaxanthin (NAX) supplementation reduces negative mood state parameters (depression and fatigue) and improves global mood state and thus supports mental wellness. A total of 28 healthy subjects, half male and half female, with a median age of 42, supplemented with 12 mg per day of NAX or placebo. After an 8-week supplementation period, significant improvements were found in global mood state and related subscales: Vigor, Tension, Depression, Anger, Fatigue, and Confusion.
+    
+Source: https://doi.org/10.31989/ffhd.v9i8.636
+
 ### Heart Disease
 
 #### Heart Attack

@@ -69,6 +69,14 @@ Improves vessel responsiveness (when taken in conjunction with 40mins of regular
 
 - Improves biomarkers related to vascular functions.[^6]
 
+### Metabolism
+
+Beverages Rich in Resveratrol and Physical Activity Attenuate Metabolic Changes Induced by High-Fat Diet 
+
+Saturated fats in the diet can cause deleterious effects on health, which could be minimized through physical activity and the consumtion of functional foods with  medicinal qualities. This study has shown that grape juice can help lower lipid peroxidation (fat oxidation), interleukin-6 (IL6) concentration and systolic blood pressure (SBP) while also positivley increasing healthy gut microbiota. The consumption of grape juice therefore, together with physical exercise, may be able to promote beneficial metabolic changes even in the presence of a traditional High Fat Diet.
+
+Source: https://doi.org/10.1080/07315724.2020.1805374
+
 ## Disease / Symptom Treatment
 
 ### Birth Defects

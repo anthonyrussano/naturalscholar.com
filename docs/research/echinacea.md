@@ -19,6 +19,16 @@ Enhanced Cellular Immune Function.
 
 ## Disease / Symptom Treatment
 
+### Cancer
+
+#### Breast Cancer
+
+Echinacea Extract is a potential candidate for breast cancer treatment
+
+Echinacea displays different biological activities, such as antiviral, immunomodulatory, and anticancer activities. In this study, echinacea extract showed cytotoxic activity on breast cancer cells. No harmfull effects were observed on normal breast cells. Echinacea extract also showed a synergistic effect on cancer cells when used with paclitaxel (a chemotherapy medication).
+
+Source: https://doi.org/10.1080/01635581.2020.1817956
+
 ### Respiratory Infections
 
 ### Common Cold

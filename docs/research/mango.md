@@ -29,6 +29,16 @@ Modulates lipid metabolism[^2]
 - Suppresses Adipogenesis (generation of new fat cells).
 - Increases thermogenesis.
 
+### Brain Health
+
+#### Cognition
+
+Mango leaf extract Improves Cognitive Function in Healthy Adults
+
+Mango leaf extract significantly improved brain function and cognitive performance accuracy. Results showed enhanced ‘Accuracy of Attention’ and 'Episodic Memory’. Performance was also improved across Rapid Visual Information Processing, Serial subtraction tasks, and other Cognitive Demand Battery tests. Cognitive benefits were assessed within 30 min, 3 h, and 5 h of dose. These results provide the first demonstration of cognition enhancement following consumption of mango leaf extract and add to previous research showing that polyphenols and polyphenol rich extracts can improve brain function.
+    
+Source: https://doi.org/10.3390/nu12082194
+
 ### Blood Health
 
 (Improves Vascular Health and Function)
