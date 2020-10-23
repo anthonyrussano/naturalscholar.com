@@ -2,9 +2,7 @@
 
 Natural Scholar is a Free Research Project
 
-## Contact
-
-**email:** admin@naturalscholar.com
+admin@naturalscholar.com
 
 ## Support Natural Scholar
 
