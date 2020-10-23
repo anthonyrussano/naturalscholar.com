@@ -54,7 +54,6 @@ Sulforaphane from broccoli reduces inflammation and liver cancer risk[^5]
 
 Sulforaphane (SF), a broccoli-derived isothiocyanate, inhibits the secretion of pro-inflammatory cytokines. SF was shown to suppress liver inflammation within 24hrs of treatment. SF was not associated with any cellular toxicity, indicating the protective effect of SF against inflammatory responses. This study revealed the potential usage of broccoli-derived SF as a functional food ingredient in attenuating liver inflammation and reducing liver cancer risk development.[^5]
 
-
 # Disease / Symptom Treatment
 
 ### Cancer Treatment / Prevention
