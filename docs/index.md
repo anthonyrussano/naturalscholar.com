@@ -1,9 +1,19 @@
-# Welcome to Natural Scholar
+# Welcome
 
-### [Alpha Lipoic Acid](./research/lipoic-acid)
+Natural Scholar is a Free Research Project
 
-#### Attenuates Inflammatory Response in the Brain
+## Support Natural Scholar
 
-[Konyang University, Daejeon, Korea | Korean Journal of Clinical Laboratory Science](https://doi.org/10.15324/kjcls.2020.52.3.253)
-    
-(Sept 30, 2020) α-Lipoic Acid is a therapeutic agent against neuroinflammatory responses.  Alpha-Lipoic Acid has anti-dementia and anti-Alzheimer's Disease properties due to several actions, such as scavenging the reactive oxygen species (ROS), reducing inflammatory processes, and regenerating endogenous antioxidants.
+If you like what we’re doing and want to support us, please contribute. Your support is greatly appreciated!
+
+### Donate
+
+!!! tip ""
+
+    **Bitcoin:** bc1qy69sl22pp7qfkksaxwp67zxkusjlhj0dfss9df
+
+    **Ethereum:** 0x9842da585e3d4c690a91c2015a8807512ee9f556
+
+    **Litecoin:** ltc1qa7r3l6h02wew6et6lwvvgylv9rjsedcmwnwce7
+
+admin@naturalscholar.com
