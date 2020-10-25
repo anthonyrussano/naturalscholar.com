@@ -1,6 +1,6 @@
 # Welcome
 
-Natural Scholar is a Free Research Project
+Natural Scholar is a Free Research Project :olive:
 
 ## Support Natural Scholar
 
