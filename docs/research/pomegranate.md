@@ -1,17 +1,23 @@
-# Blackcurrant
+---
+category: Fruits
+tags:
+- Antioxidant
+- Endothelial Health
+- Blood Vessels
+---
+# Pomegranate
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/blackcurrant.jpg" style="border-radius: 5px; float:left; margin: 5px;">Blackcurrant (Ribes nigrum), also known as black currant or cassis, is a woody shrub in the family Grossulariaceae grown for its berries.
-
-## Composition
-
-The raw fruit is particularly rich in vitamin C and polyphenols. 
-
-## Consumption
-
-Blackcurrants can be eaten raw, but are usually cooked in sweet or savoury dishes. They are used to make jams, preserves, and syrups and are grown commercially for the juice market. 
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/Pomegranate.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Pomegranate** is the fruit of the Punica granatum plant which grows as a small shrub or tree with spiny branches.  The Pomegranate tree is extremely long-lived, with some specimens in France surviving for 200 years.
 
 ## Healing Properties
 
+### Antioxidant
+
+### Endothelial Health
+
+Helps repair the inner lining of blood vessels.
+
+## Disease / Symptom Treatment
 
 [^1]: 
 **Title:** [ ]( )<br>

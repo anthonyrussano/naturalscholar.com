@@ -1,12 +1,12 @@
 # Welcome
 
-Natural Scholar is a Free Research Project :olive:
+Natural Scholar is a growing research project :seedling:
 
 ## Support Natural Scholar
 
-If you like what we’re doing and want to support us, please contribute. Your support is greatly appreciated!
+If you like what we’re doing and want to support us, please contribute.
 
-### Donate
+### Your donation is greatly appreciated!
 
 !!! tip ""
 
