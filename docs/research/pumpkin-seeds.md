@@ -4,7 +4,7 @@ tags:
 ---
 # Pumpkin Seeds
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/tangerine.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Pumpkin Seeds**[^1]
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/pumpkin seeds.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Pumpkin Seeds**[^1]
 
 ## Healing Properties
 
