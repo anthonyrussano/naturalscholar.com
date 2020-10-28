@@ -9,19 +9,23 @@ tags:
 - Antiobesogenic
 - Antiobesity
 ---
-# Acai
+# Acai (Açaí)
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acai.jpg" style="border-radius: 5px; float:left; margin: 5px;">Acai (Açaí) refers to the Euterpe oleracea species of palm tree which produces the fruit known as Acai berries. Acai berries are small, round, black-purple fruits, similar in appearance to a grape, but smaller and with less pulp. The ripe fruits are a deep purple color, or green, depending on the kind of açaí and its maturity. They contain a single large seed. The seed makes up about 60-80% of the fruit.
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acai.jpg" style="border-radius: 5px; float:left; margin: 5px;">Acai berries are the fruit of the Euterpe oleracea palm tree. Acai berries are small, round, black-purple fruits, similar in appearance to a grape, but smaller and with less pulp. The ripe fruits are a deep purple color, or green, depending on the kind of açaí and its maturity. They contain a single large seed. The seed makes up about 60-80% of the fruit.
 
 ## Composition
 
 Acai berries have a high polyphenol content. They also contain many nutrients such as: iron, vitamin E, and unsaturated fatty acids.[^3]
 
 - Polyphenols (Phenolic Compounds)
-  - Acai seed extract (ASE) is rich in catechin and polymeric pro-anthocyanidins.
+  - Acai seed extract (ASE) is rich in catechin and polymeric pro-anthocyanidins.[^3]
   - Açaí oil is rich in protocatechuic acid.
 
+- Acai Seed Extract is rich in catechin, epicatechin and polymeric proanthocyanidins, which are natural antioxidant and anti-infammatory polyphenolic compounds.[^5]
+
 Acai berries contain anthocyanins such as cyanidine-3-glucoside (C3Glc), cyanidine-3-diglucoside, and cyanidin-3-rutinoside (which contribute to antioxidant activity).[^3]
+
+Chemical studies have shown that acaí is composed of a variety of compounds, including hydroxybenzoic acids, polyphenolics, favan-3-ols and anthocyanins, particularly cyanidin 3-O-rutinoside and cyanidin 3-O-glucuronide.[^5]
 
 ## Preparation
 
@@ -29,9 +33,9 @@ The pulp of the acai fruit is commonly freeze-dried, with the seed and skin remo
 
 ## Healing Properties
 
-### Antiinflammatory
+### Antiinflammatory (anti-inflammatory)
 
-(anti-inflammatory)
+Phytochemicals contained in acai, including favan-3-ols and proanthocyanidins, were demonstrated to exhibit anti-infammatory effects.[^5]
 
 ### Antioxidant
 
@@ -81,11 +85,37 @@ Acai Seed Extract has been shown to induce endothelium dependent vasodilation (w
 
 ### Gut Health
 
- Acai is rich in anthocyanidin and chrysanthemin (cyanidin-3-glucoside) which have been shown to inhibit the growth of E. coli and promote the growth of probiotic (beneficial) strains of microorganisms.
+Acai is rich in anthocyanidin and chrysanthemin (cyanidin-3-glucoside) which have been shown to inhibit the growth of E. coli and promote the growth of probiotic (beneficial) strains of microorganisms.
+
+## Disease / Symptom Treatment
+
+### Inflammatory Bowel Disease
+
+Acai Seed Extract could reduce colonic infammation.[^5]
+
+Intestinal infammation is associated with the overproduction of both reactive oxygen and reactive nitrogen species, leading to oxidative and nitrosative stress, which are observed in infammatory bowel diseases.[^5]
+
+Acai Seed Extract treatment reduced malonyldialdehyde (MDA) levels.[^5] This is a marker for inflammation.
+
+> Excessive oxygen radicals are critical factors for ulcerative infammation tissue damage, oxidative stress has been proposed as the mechanism underlying the pathophysiology of Crohn’s disease. Membrane lipids are susceptible to reactive oxygen species-induced damage, resulting in lipid peroxidation and products derived from polyunsaturated fatty acids measured by MDA levels.[^5]
+
+#### Colitis
+
+Acai Seed Extract prevents colonic mucosal damage caused by colitis by decreasing the infammatory processes and oxidative stress.[^5]
+
+Acai Seed Extract reduced abnormal increases in colon weight and macroscopic infammation.[^5]
+
+Evaluation of the colon after treatment with acai seed extract revealed a signifcant decrease in microscopic damage.[^5]
+
+Acai Seed Extract reduced all parameters of intestinal damage, including mucosal architecture loss, cellular infltrate, muscle thickening, crypt abscess and goblet cell depletion, macroscopic lesions characterized by focal hyperemia or bowel wall thickening, and ulceration with infammation.[^5]
+
+Acai Seed Extract signifcantly reduced Neutrophil–myeloperoxidase (MPO) activity, thereby decreasing extensive neutrophil infltration into the colonic tissues and repairing the formation of oxidative damage in colitis.[^5]
+
+> Neutrophil–myeloperoxidase (MPO) is an abundant granule enzyme that catalyzes the production of potent ROS, causing an increase in oxidative damage in the intestinal mucosa. Attenuating MPO may mitigate oxidative damage and infammation in the intestinal mucosa.[^5]
 
 ### Fatty Liver (hepatic steatosis)
 
-Acai treatment has been shown to provide protection from fatty liver disease (hepatic steatosis).[^3]
+Acai treatment has been shown to provide protection from fatty liver disease.[^3]
 
 ### Metabolic Syndrome
 
@@ -135,6 +165,16 @@ Acai berries are a promising functional food for the management and prevention o
 **Institution(s):** Department of Pharmacology, Tulane University School of Medicine, New Orleans, Louisiana 70112.<br>
 **Abstract:** Hypoxia is the fundamental stimulus for erythropoietin (EP) production. It is clear that hypoxia increases erythropoietin messenger RNA in a renal cell, which leads to the production of increased amounts of erythropoietin in the kidney. Hypoxia also increases external messenger substances that amplify the effects of hypoxia and increases erythropoietin messenger RNA to further accelerate erythropoietin production. Some of these messenger substances are adenosine, eicosanoids, oxygen-derived metabolites, and beta-2 adrenergic agonists that are postulated to act through the activation of cell membrane receptors and are coupled to an increase in a G stimulatory protein which activates adenylate cyclase. This leads to increased production of cyclic adenosine monophosphate (AMP) for the production of key phosphoproteins that are involved in the biosynthesis/secretion of erythropoietin. This paper considers the physicochemical properties of human erythropoietin, pharmacologic agents that increase and decrease erythropoietin production/secretion, serum erythropoietin levels in normal human subjects and in patients with several types of anemia, and a model for the role of adenosine and other external messenger substances in erythropoietin biosynthesis/secretion.<br>
 [IPFS Link](https://ipfs.io/ipfs/)
+
+[^5]: 
+**Title:** [Euterpe oleracea Mart. (Açaí) attenuates experimental colitis in rats: involvement of TLR4/COX-2/NF-ĸB](https://link.springer.com/article/10.1007/s10787-020-00763-x)<br>
+**Publication:** [Springer Link - Inflammopharmacology](https://link.springer.com/)<br>
+**Date:** September 2020<br>
+**Study Type:** Animal Study<br>
+**Author(s):** Carlos Eduardo da Silva Monteiro, Humberto Barbosa da Costa Filho, Francisca Géssica Oliveira Silva, Maria de Fathima Felipe de Souza, Johnatan Alisson Oliveira Sousa, Álvaro Xavier Franco, Ângela Castro Resende, Roberto Soares de Moura, Marcellus Henrique Loiola de Souza, Pedro Marcos Gomes Soares, André Luiz dos Reis Barbosa<br>
+**Institution(s):** LEFFAG-Laboratory of Physiopharmacology Study of Gastrointestinal Tract, Department of Physiology and Pharmacology, Federal University of Ceará, Fortaleza, CE, Brazil; Department of Pharmacology, Institute of Biology, State University of Rio de Janeiro, Rio de Janeiro, Brazil; <br>
+**Abstract:** Euterpe oleracea Mart., commonly known as açaí, has been demonstrated to exhibit significantly antioxidant and inflammatory activities in experimental models. These effects of the hydroalcoholic extract from the açaí seed (ASE) were investigated in TNBS-induced (2,4,6-trinitrobenzenesulfonic acid) acute colitis model in rats. Wistar rats (180–220 g) were orally pretreated with saline (0.3 mL), ASE (10, 30 and 100 mg/kg) and dexamethasone (control group, 1 mg/kg) once daily for 3 days starting before TNBS instillation. On day 3 after TNBS, the animals were euthanized, the portion of distal colon was collected and washed with 0.9% saline for macroscopy and histological evaluation, glutathione (GSH) and malonyldialdehyde (MDA) levels, myeloperoxidase (MPO) and catalase (CAT) activity, nitrate and nitrite (NO3/NO2) concentration, pro-inflammatory cytokines levels and intestinal barrier integrity. We also evaluated Toll-like Receptor 4/cyclooxygenase-2/nuclear factor kappa B expression as a possible mechanism related to the ASE effects. Treatment with ASE 100 mg/kg decreased significantly macroscopic and microscopic damage induced by TNBS. In addition, MPO activity, TNF-α (tumor necrosis factor-alpha) and IL-1β (interleukin 1) levels were reduced in rats with colitis. ASE 100 mg/kg restored GSH and MDA levels, CAT activity, NO3/NO2 concentration and improved the intestinal barrier integrity in the TNBS group. ASE 100 mg/kg significantly reduced TNBS-induced expression of the TLR4, COX-2 and NF-κB p65. ASE 100 mg/kg improved macroscopy and histological parameters, inflammation, intestinal barrier integrity and nitric and oxidative stress through the TLR-4/COX-2/NF-κB pathway.<br>
+[IPFS Link](https://ipfs.io/ipfs/QmcKgECnvDzPQmE7ExopNQR9gpXruBVszagNZhwpyizeF4)
 
 <!-- [^1]: 
 **Title:** [ ]( )<br>

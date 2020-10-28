@@ -22,9 +22,9 @@ Aeglemarmelosine, molecular formula C16H15NO2 [α]27D+7.89° (c 0.20, CHCl3), ha
 
 ## Preparation
 
-It takes about 11 months to ripen on the tree and can reach the size of a large grapefruit or pomelo, and some are even larger. The shell is so hard it must be cracked with a hammer or machete. The fibrous yellow pulp is very aromatic. It has been described as tasting of marmalade and smelling of roses.
+The fruit can reach the size of a large grapefruit or bigger. The shell is hard and must be cracked with a tool. The fibrous yellow pulp is very aromatic, described as tasting of marmalade and smelling of roses.
 
-The fruits can be eaten either fresh from trees or after being dried and produced into pulp powder or nectar. If fresh, the juice is strained and sweetened to make a drink similar to lemonade.
+The fruits can be eaten fresh or dried, into pulp powder or nectar. If fresh, the juice is strained and sweetened to make a drink similar to lemonade.
 
 The leaves and small shoots are eaten as salad greens.
 
