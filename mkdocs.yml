@@ -2,6 +2,7 @@ site_name: "Natural Scholar"
 # Configuration
 theme:
   name: material
+  custom_dir: custom_theme
   language: en
   favicon: resources/img/logo.png
   icon:
@@ -12,6 +13,11 @@ theme:
     accent: light green
   features:
     - instant
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
 
 # Plugins
 # Extensions

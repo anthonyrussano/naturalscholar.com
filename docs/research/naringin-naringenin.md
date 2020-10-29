@@ -26,7 +26,7 @@ tags:
 - Heart Disease
 - Cardiovascular Disease
 ---
-# Naringin
+# Naringin / Naringenin
 
 <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/naringin.jpg" style="border-radius: 5px; float:left; margin: 5px;">**Naringin** is a flavonoid commonly found in the pericarp of citrus fruits, bergamot, tomatoes and other fruits.
 
