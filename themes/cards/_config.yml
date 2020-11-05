@@ -42,7 +42,7 @@ head:
 navbar: 
 
   # Name display on the left
-  sitename: SDZINE
+  sitename: Natural Scholar
   
   # Navigation link in the station on the right
   menu: 
@@ -63,13 +63,13 @@ navbar:
 cover: 
 
   # The site name displayed at the top cover
-  sitename: SDZINE
+  sitename: Natural Scholar
 
   # If the logo is set, the logo will be used first instead of sitename
   logo: 
   
   # logo below a sentence introduction
-  description: Welcome to SDZINE.com
+  description: A Research Project
 
 
 # ---------------------------------------------------------------
@@ -131,8 +131,8 @@ meta:
   
   # Default article author (can be overridden in front-matter)
   author:
-    name: admin@sdzine.com
-    url: https://www.sdzine.com
+    name: admin@naturalscholar.com
+    url: https://www.naturalscholar.com
   
   # Article creation date
   date:
@@ -269,7 +269,7 @@ comments:
     firebase_project_id:
     firebase_storage_bucket:
     firebase_messaging_sender_id:
-    theme: light # light | dark
+    theme: dark # light | dark
     locale: en
 
 
