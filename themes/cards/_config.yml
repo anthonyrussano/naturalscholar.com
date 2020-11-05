@@ -369,7 +369,7 @@ fancybox:
 back_to_top: false
 
 # Dark Mode
-darkmode: true
+darkmode: false
 
 
 
