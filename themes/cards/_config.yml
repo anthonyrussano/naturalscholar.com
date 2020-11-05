@@ -131,18 +131,18 @@ meta:
   
   # Default article author (can be overridden in front-matter)
   author:
-    name: admin@naturalscholar.com
+    name: 'The Natural Scholar Team'
     url: https://www.naturalscholar.com
   
   # Article creation date
   date:
     title: ''
-    format: 'YYYY-MM-DD' # Date format http://momentjs.com/docs/
+    format: 'dddd, MMMM Do YYYY, h:mm:ss a' # Date format http://momentjs.com/docs/
   
   # Article update date
   updated:
-    title: ''
-    format: 'YYYY-MM-DD' # Date format http://momentjs.com/docs/
+    title: "Last Updated: "
+    format: 'dddd, MMMM Do YYYY, h:mm:ss a' # Date format http://momentjs.com/docs/
 
   # Article thumbnail
   thumbnail: 
