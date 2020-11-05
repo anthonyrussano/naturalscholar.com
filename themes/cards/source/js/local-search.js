@@ -56,7 +56,7 @@ function createPosts(resArr) {
         const pageInfo = resInfo[0];
         const postTemplate = 
         `
-        <a href="${pageInfo.link}" class="search-result__link">
+        <a href="../${pageInfo.link}" class="search-result__link">
             <div class='search-result__item'>
                 <strong>
                     ${pageInfo.title}
