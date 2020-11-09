@@ -171,7 +171,6 @@ meta:
     # After the author's statement and permanent link, it can be multiple lines, support markdown
     custom_text:
       - 'Thank you for your support!'
-      - 'BTC: bc1qx6pkaaszg66x3tcpgt5zd6x0pszdwy0sa3sv3n'
 
 
 
