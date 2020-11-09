@@ -9,9 +9,9 @@
     </form>
 </div><br>
 <div style=" display: flex; align-items: center; justify-content: center;">
-<a href="/archives"><button class="button">Archives</button></a>
-<a href="/categories"><button class="button">Categories</button></a>
-<a href="/keywords"><button class="button">Keywords</button></a>
+<a href="<%- url_for('archives/') %>"><button class="button">Archives</button></a>
+<a href="<%- url_for('categories/') %>"><button class="button">Categories</button></a>
+<a href="<%- url_for('keywords/') %>"><button class="button">Keywords</button></a>
 </div>
 <div id="search-result"></div>
 <script>var searchDataFile = "<%- url_for(config.search.path) %>";</script>
