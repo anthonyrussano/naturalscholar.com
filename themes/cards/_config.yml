@@ -144,10 +144,10 @@ meta:
     title: "Last Updated: "
     format: 'dddd, MMMM Do YYYY, h:mm:ss a' # Date format http://momentjs.com/docs/
 
-  # Article thumbnail
+  # Article thumbnail # Default thumbnail, when the page `thumbnail` field is empty, fallback to this parameter
   thumbnail: 
-    enable: false
-    default: https://res.cloudinary.com/alchemist-cookbook/image/upload/v1538465246/favicon.png  # Default thumbnail, when the page `thumbnail` field is empty, fallback to this parameter
+    enable: true
+    default: "https://res.cloudinary.com/alchemist-cookbook/image/upload/natural-scholar/natural scholar banner.jpg"
 
   # Article outdated reminder
   expire: 
