@@ -1,13 +1,20 @@
 ---
-title: Test Post
-thumbnail: 
+title: Pineapple Sprout Juice
+thumbnail: https://res.cloudinary.com/alchemist-cookbook/image/upload/natural-scholar/natural scholar banner
 tags:
-- Test One
+- Juicing
+- Pineapple
+- Sprouts
+- Ground Cloves
 category:
-- Category One
+- Recipes
 ---
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/natural-scholar/pineapple sprout juice" style="border-radius: 5px; display:block;margin-left: auto; margin-right: auto;">
+<br>
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/pineapple.jpg" style="border-radius: 5px; float:left; margin: 5px;"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/pineapple.jpg" style="border-radius: 5px; float:left; margin: 5px;"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/pineapple.jpg" style="border-radius: 5px; float:left; margin: 5px;"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/pineapple.jpg" style="border-radius: 5px; float:left; margin: 5px;"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/pineapple.jpg" style="border-radius: 5px; float:left; margin: 5px;"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/pineapple.jpg" style="border-radius: 5px; float:left; margin: 5px;">
+<br>
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/cox pomona apple.jpg" style="border-radius: 5px; float:left; margin: 5px;">Believed to be a sister seedling of Cox's Orange Pippin. It was raised in about 1825 by Richard Cox at Colnbrook Lawn, Slough, Buckinghamshire and introduced by Smale, Colnbrook Nursery, Slough. Fruits have softish, coarse-textured, juicy flesh with a sweet, subacid.
+## Notes
 
 ## Sources
 
