@@ -8,21 +8,45 @@ category:
 ---
 # Antiaging Elixir Juice
 
-Here is a great juice recipe to make for verious health reasons.
+Here is a great juice recipe to make:
 
-<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/natural-scholar/Antiaging Elixir Juice" style="border-radius: 5px; display:block;margin-left: auto; margin-right: auto;">
+1 cup blueberries
+1 cup purple grapes, with seeds
+1 cup watermelon, rind removed, cubed
+2 medium zucchini, sliced
+1 medium tomato, quartered
+1 cup spring water
+2 tablespoons soy protein powder
+500 mg L-carnosine
+100 mg ginko biloba
+100 mg glutathione
+100 mg phosphatidylserine
 
-## Notes
+1. Push blueberries, grapes, watermelon, zucchini, and tomato through the juicerr.
+2. Add the spring water, protein powder, and supplements to the juice mixture, and stir well.
+3. Serve immediately.
 
-<a href="https://www.naturalhealingsearch.com/blueberries"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/blueberries" style="border-radius: 5px; float:left; margin: 5px;">**Blueberries**</a> Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic over at NaturalHealingSearch.com
+Makes 1-2 Servings.
 
-<a href="https://www.naturalhealingsearch.com/grapes"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/grapes" style="border-radius: 5px; float:left; margin: 5px;">**Grapes**</a> are really healthy.  They should be part of your diet. This is totally good info right here.  I think the proper amount of lines is about 3-4 to be sure. Take it from me. More details on the health benefits of Sprouts can be found over at NaturalHealingSearch.com
+## Healing Properties
 
-<a href="https://www.naturalhealingsearch.com/watermelon"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/watermelon" style="border-radius: 5px; float:left; margin: 5px;">**Watermelon**</a> are really healthy.  They should be part of your diet. This is totally good info right here.  I think the proper amount of lines is about 3-4 to be sure. Take it from me. More details on the health benefits of Sprouts can be found over at NaturalHealingSearch.com
+<a href="https://www.naturalhealingsearch.com/blueberries"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/blueberries" style="border-radius: 5px; float:left; margin: 5px;">**Blueberries**</a>
+Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
 
-<a href="https://www.naturalhealingsearch.com/zucchini"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/zucchini" style="border-radius: 5px; float:left; margin: 5px;">**Zucchini**</a> are really healthy.  They should be part of your diet. This is totally good info right here.  I think the proper amount of lines is about 3-4 to be sure. Take it from me. More details on the health benefits of Sprouts can be found over at NaturalHealingSearch.com
+<a href="https://www.naturalhealingsearch.com/grapes"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/grapes" style="border-radius: 5px; float:left; margin: 5px;">**Grapes**</a>
+Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
 
-<a href="https://www.naturalhealingsearch.com/tomatoes"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/tomatoes" style="border-radius: 5px; float:left; margin: 5px;">**Tomatoes**</a> are really healthy.  They should be part of your diet. This is totally good info right here.  I think the proper amount of lines is about 3-4 to be sure. Take it from me. More details on the health benefits of Pineapples can be found over at NaturalHealingSearch.com
+<a href="https://www.naturalhealingsearch.com/watermelon"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/watermelon" style="border-radius: 5px; float:left; margin: 5px;">**Watermelon**</a>
+Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
+
+<a href="https://www.naturalhealingsearch.com/zucchini"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/zucchini" style="border-radius: 5px; float:left; margin: 5px;">**Zucchini**</a>
+Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
+
+<a href="https://www.naturalhealingsearch.com/tomatoes"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/tomatoes" style="border-radius: 5px; float:left; margin: 5px;">**Tomatoes**</a>
+Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
+
+<a href="https://www.naturalhealingsearch.com/ginkgo-biloba"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/ginkgo biloba" style="border-radius: 5px; float:left; margin: 5px;">**Ginkgo Biloba**</a>
+Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
 
 ## Sources
 
@@ -32,3 +56,5 @@ Here is a great juice recipe to make for verious health reasons.
 **Author(s):** Gary Null, Ph.D.
 **Institution(s):** Gary Null & Associates, Inc.
 **Classification:** Books, Nutrition, Vegan Cookery
+
+<!-- <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/natural-scholar/Antiaging Elixir Juice" style="border-radius: 5px; display:block;margin-left: auto; margin-right: auto;"> -->
