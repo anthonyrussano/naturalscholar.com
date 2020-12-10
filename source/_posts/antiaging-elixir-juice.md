@@ -30,7 +30,7 @@ Makes 1-2 Servings.
 
 ## Healing Properties
 
-<a href="https://www.naturalhealingsearch.com/blueberries"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/blueberries" style="border-radius: 5px; float:left; margin: 5px;">**Blueberries**</a>
+<a href="https://www.naturalhealingsearch.com/blueberry"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/blueberry" style="border-radius: 5px; float:left; margin: 5px;">**Blueberries**</a>
 Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
 
 <a href="https://www.naturalhealingsearch.com/grapes"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/grapes" style="border-radius: 5px; float:left; margin: 5px;">**Grapes**</a>
@@ -46,6 +46,9 @@ Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cogn
 Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
 
 <a href="https://www.naturalhealingsearch.com/ginkgo-biloba"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/ginkgo biloba" style="border-radius: 5px; float:left; margin: 5px;">**Ginkgo Biloba**</a>
+Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
+
+<a href="https://www.naturalhealingsearch.com/glutathione"><img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/glutathione" style="border-radius: 5px; float:left; margin: 5px;">**Glutathione**</a>
 Alzheimer's, Antioxidant, Brain Health, Brain Plasticity, Cardioprotective, Cognition, Cognitive Decline, Diabetes, Digestion, Fiber, Glucose Regulation, Gut Health, Learning, Memory, Neurogenesis, Neuroprotective, Prebiotic, Probiotic
 
 ## Sources
