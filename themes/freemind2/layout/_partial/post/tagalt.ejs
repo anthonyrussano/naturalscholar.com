@@ -1,0 +1,7 @@
+<%
+var tags = [];
+item.tags.sort('name').forEach(function(tag){
+  tags.push('<li><a href="../' + tag.path + '">' + tag.name + '</a></li>');
+});
+%>
+<%- tags.join(' ') %>

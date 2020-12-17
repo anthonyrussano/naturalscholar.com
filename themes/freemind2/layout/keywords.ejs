@@ -1,0 +1,36 @@
+<table style="width:100%">
+        <thead>
+          <tr>
+            <th>Displaying <%= site.tags.length %> keywords</th>
+          </tr>
+        </thead>
+        <tbody>
+        <% site.tags.sort('name', 1).each(function(item){ %>
+          <tr>
+            <td>
+              <h4>
+                <a href="<%- url_for(item.path) %>"><%= item.name %><b class="caret"></b></a>
+              </h4>
+              <% for (var link in site.data.description) { %>
+              <% if (item.name == link) { %>
+              <%= site.data.description[link] %>
+              <% } else { %>
+              <% } %>
+              <% } %>
+              <br><br>
+              <i>
+                Articles (<%= item.posts.length %>)
+                <%
+                var posts = [];
+                item.posts.forEach(function(post){
+                posts.push(' <a href="../' + post.path + '">' + post.title + '</a>');
+                });
+                %>
+                <%- posts.join(', ') %>
+              </i>
+              <br><br>
+            </td>
+          </tr>
+        <% }); %>
+        </tbody>
+      </table>

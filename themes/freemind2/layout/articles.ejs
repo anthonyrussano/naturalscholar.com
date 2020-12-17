@@ -1,0 +1,29 @@
+<table style="width:100%">
+        <thead>
+          <tr>
+            <th>Displaying <%= site.posts.length %> articles</th>
+          </tr>
+        </thead>
+        <tbody>
+        <% site.posts.sort('title', 1).each(function(post){ %>
+          <tr>
+            <td>
+              <h4>
+                <a href="<%- url_for(post.path) %>"><%= post.title %><b class="caret"></b></a>
+              </h4>
+              <%= strip_html(post.excerpt) %>
+              <br><br>
+              <i>Keywords (<%= post.tags.length %>)
+                <%
+                var tags = [];
+                post.tags.forEach(function(tag){
+                  tags.push(' <a href="../' + tag.path + '">' + tag.name + '</a>');
+                });
+                %>
+                <%- tags.join(', ') %>
+              </i>
+            </td>
+          </tr>
+          <% }); %>
+        </tbody>
+      </table>

@@ -1,0 +1,16 @@
+<tr>
+	<td><h4><a href="../../<%- item.path %>"><%= item.title %><b class="caret"></b></a></h4>
+	<%= strip_html(item.excerpt) %><br><br>
+		<i>Keywords (<%= item.tags.length %>)
+		<%
+		var tags = [];
+		item.tags.sort('name').forEach(function(tag){
+			tags.push(' <a id="tag" href="../../' + tag.path + '">' + tag.name + '</a>');
+		});
+		%>
+		<%- tags.join(', ') %></i><br><br>
+		<% if (item.buynow) { %>
+		<% } else { %>
+		<% } %>
+	</td>
+</tr>

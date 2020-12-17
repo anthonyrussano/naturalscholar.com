@@ -1,4 +1,5 @@
 ---
 title: Keywords
-layout: tag
+layout: keywords
+comments: false
 ---

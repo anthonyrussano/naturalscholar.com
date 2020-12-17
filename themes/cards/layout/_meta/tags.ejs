@@ -1,8 +1,0 @@
-<span class="separate-dot"></span>
-<%
-var tags = [];
-post.tags.forEach(function(tag){
-  tags.push(' <a href="../' + tag.path + '">' + tag.name + '</a>');
-});
-%>
-<%- tags.join(', ') %>
