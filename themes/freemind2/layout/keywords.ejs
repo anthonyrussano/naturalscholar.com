@@ -5,9 +5,9 @@
     </tr>
   </thead>
   <tbody>
-    <% site.tags.sort('name', 1).each(function(item){ %>
     <tr>
-      <td>
+    <td>
+    <% site.tags.sort('name', 1).each(function(item){ %>
         <h4>
           <a href="<%- url_for(item.path) %>"><%= item.name %><b class="caret"></b></a>
         </h4>
@@ -17,9 +17,9 @@
       <% } else { %>
       <% } %>
       <% } %>
-      <br><br>
+      <br>
         <i>
-         Articles (<%= item.posts.length %>)
+         Related Articles:
         <%
           var posts = [];
           item.posts.forEach(function(post){
@@ -28,9 +28,9 @@
           %>
           <%- posts.join(', ') %>
         </i>
-      <br><br>
-      </td>
-    </tr>
+      <br><hr>
     <% }); %>
-  </tbody>
+  </td>
+</tr>    
+</tbody>
 </table>

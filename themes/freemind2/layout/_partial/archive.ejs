@@ -32,9 +32,13 @@
               </tr>
           </thead>
           <tbody>
+            <tr>
+              <td>
          <% page.posts.sort('title').each(function(item){ %>
          <%- partial('post/title_list', {item: item, index: true}) %>
          <% }); %>
+        </td>
+        </td>
         </tbody>
       </table>
       <script>
