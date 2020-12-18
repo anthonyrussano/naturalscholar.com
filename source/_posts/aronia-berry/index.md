@@ -99,3 +99,11 @@ Aronia Berry Juice Concentrate supplementation had a significant effect on preve
 [^3]: **Title:** [Aronia melanocarpa fruit juice ameliorates the symptoms of inflammatory bowel disease in TNBS-induced colitis in rats](https://doi.org/10.1016/j.fct.2018.01.011)<br>**Author(s):** Stefka Valcheva-Kuzmanova, Atanas Kuzmanov, Vasilena Kuzmanova, Maria Tzaneva<br>**Institution(s):** Department of Pharmacology and Clinical Pharmacology and Therapeutics, Medical University Prof. Dr. Paraskev Stoyanov, Varna, Bulgaria; Medical University Prof. Dr. Paraskev Stoyanov, Varna, Bulgaria; Department of Preclinical and Clinical Sciences, Medical University Prof. Dr. Paraskev Stoyanov, Varna, Bulgaria<br>**Publication:** <i>Food and Chemical Toxicology</i><br>**Date:** March 2018<br>**IPFS Link:** [ipfs.io](https://ipfs.io/ipfs/QmUUdBwwx1Nv4JhgqFE389mzBC59bZf5KT1ynvfZAnatM3) | [cloudflare-ipfs.com](https://cloudflare-ipfs.com/ipfs/QmUUdBwwx1Nv4JhgqFE389mzBC59bZf5KT1ynvfZAnatM3)
 
 [^4]: **Title:** [Effect of Aronia melanocarpa (Black Chokeberry) supplementation on the development of obesity in mice fed a high-fat diet](https://content.iospress.com/articles/journal-of-berry-research/jbr134)<br>**Author(s):** Baum, Jamie I.* | Howard, Luke R. | Prior, Ronald L. | Lee, Sun-Ok<br>**Institution(s):** Department of Food Science, University of Arkansas, Fayetteville, AR, USA<br>**Publication:** <i>Journal of Berry Research</i><br>**Date:** 16 June 2016<br>**IPFS Link:** [ipfs.io](https://ipfs.io/ipfs/QmRi6Cue175THbc3uchZjhpTMEiBwuXSYdUb5h5P9aWgTn) | [cloudflare-ipfs.com](https://cloudflare-ipfs.com/ipfs/QmRi6Cue175THbc3uchZjhpTMEiBwuXSYdUb5h5P9aWgTn)
+
+[^5]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
