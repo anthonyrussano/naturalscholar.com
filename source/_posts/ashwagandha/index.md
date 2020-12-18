@@ -95,6 +95,27 @@ Withania somnifera in concentration of 10g/ml inhibited the growth of various pa
 
 ### Low Libido
 
-[^1]: **Study Type:**  Chemical Analysis<br>**Title:** PHARMACOLOGICALAND PHYTOMEDICINE ASSESSMENT OF WITHANIA SOMNIFERA<br>**Author(s):** Namrata Dwivedi, Kalpana Trivedi, I. P. Tripathi<br>**Institution(s):** Faculty of Science & Environment, MGCGV, Chitrakoot, Satna, M.P.<br>**Publication:** <i>Indian Journal of Applied Research</i><br>**Date:** Feb 2019<br>**Abstract:** <i>The composition of bioactive compounds from withania somniferous (Aswagandha) was determined by UV spectroscopy and HPTLC photodocument. Qualitative and quantitative screening revealed that tannins, saponins, alkaloids, steroids, protein, carbohydrates were present in extract of all the parts of the plant that claimed to possess medicinal activities on various ailments. The presence of these phytochemicals in withania somnifera could justify the applications of the plant in management and curing of various diseases.</i><br>**Link:** [Source](http://worldwidejournals.co.in/index.php/ijar/article/view/2815)<br>**Citations:**
+[^1]: **Title:** [Pharmacological and Phytomedicine Assessment of Withania Somnifera](https://www.worldwidejournals.com/indian-journal-of-applied-research-(IJAR)/fileview/February_2019_1548854338__158.pdf)<br>
+**Publication:** [Indian Journal of Applied Research](https://www.worldwidejournals.com/indian-journal-of-applied-research-(IJAR)/)<br>
+**Date:** Feb 2019<br>
+**Study Type:**  Chemical Analysis<br>
+**Author(s):** Namrata Dwivedi, Kalpana Trivedi, I. P. Tripathi<br>
+**Institution(s):** Faculty of Science & Environment, MGCGV, Chitrakoot, Satna, M.P.<br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmTEgqbrMU6hB4JoZa6reTQTAeAs7P2dEuozMf4Vsdq3gR), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmTEgqbrMU6hB4JoZa6reTQTAeAs7P2dEuozMf4Vsdq3gR)
 
-<!-- [^5]: **Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>**Title:** <br>**Author(s):**  <br>**Institution(s):** <br>**Publication:** <i> </i><br>**Date:** <br>**Abstract:** <i> </i><br>**Link:** [Source]()<br>**Citations:** -->
+
+[^2]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
+
+[^3]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
