@@ -91,9 +91,8 @@ Helps control glycemia.[^1]
 **Date:** January 2020<br>
 **Study Type:** Review<br>
 **Author(s):** Natalia dos Santos Tramontin, Thais F. Luciano, Scherolin de Oliveira Marques, Claudio T. de Souza, Alexandre P. Muller<br>
-**Institution(s):** Programa de Pós‐Graduação em Ciências da Saúde, Universidade do Extremo Sul Catarinense, Criciúma, Brazil; Department of Internal Medicine, Medicine School, Federal University of Juiz de Fora, Juiz de Fora, Brazil<br>
-**Abstract:** Obesity is a worldwide epidemic and is one of the factors involved in the etiology of type 2 diabetes mellitus. Obesity induces low‐grade inflammation and oxidative stress. The treatment for obesity involves changes in diet, physical activity, and even medication and surgery. Currently, the use of nutraceutical compounds is associated with health benefits. Ginger and avocado are used for many people all around the world; however, its effect as a nutraceutical compound is less known by the general population. For this reason, we searched information of the literature to point its effects on distinct mechanisms of defense against the obesity its comorbidities. The present review aimed showing that these nutraceuticals may be useful in obesity treatment. Reports have shown that ginger and avocado induce antioxidant and anti‐inflammatory effects by improving enzymatic activity and modulating obesity‐related impairments in the anti‐inflammatory system in different tissues, without side effects. Furthermore, ginger and avocado were found to be effective in reversing the harmful effects of obesity on blood lipids. In conclusion, on the basis of the positive effects of ginger and avocado in in vitro, animal, and human studies, these nutraceuticals may be useful in obesity treatment.<br>
-[IPFS Link](https://ipfs.io/ipfs/QmVBpoXwvGXEoYKkRudpHszVtVR3pows24vG94HCQDgD3a)
+**Institution(s):** Universidade do Extremo Sul Catarinense, Criciúma, Brazil; Federal University of Juiz de Fora, Juiz de Fora, Brazil<br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmVBpoXwvGXEoYKkRudpHszVtVR3pows24vG94HCQDgD3a), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmVBpoXwvGXEoYKkRudpHszVtVR3pows24vG94HCQDgD3a)
 
 [^2]: 
 **Title:** [Avocado (Persea americana) pulp improves cardiovascular and autonomic recovery following submaximal running: a crossover, randomized, double-blind and placebo-controlled trial](https://www.nature.com/articles/s41598-020-67577-3)<br>
@@ -101,16 +100,13 @@ Helps control glycemia.[^1]
 **Date:** July 2020<br>
 **Study Type:** Human Study: In Vivo<br>
 **Author(s):** Fernando H. Sousa, Vitor E. Valenti, Leticia C. Pereira, Rafaela R. Bueno, Sara Prates, Amanda N. Akimoto, Mojtaba Kaviani, David M. Garner, Joice A.T., Amaral & Luiz Carlos de Abreu<br>
-**Institution(s):** Department of Morphology and Physiology, University Health Center ABC, Santo Andre, SP, Brazil; Sao Paulo State University (UNESP), Av. Hygino Muzzi Filho, 737, Mirante, 17, Marilia, SP, Brazil; Cardiorespiratory Research Group, Department of Biological and Medical Sciences, Faculty of Health and Life Sciences, Oxford Brookes University, Headington Campus, Gipsy Lane, Oxford, OX3 0BP, UK; School of Nutrition and Dietetics, Acadia University, Wolfville, NS, Canada; <br>
-**Abstract:** Previous studies have demonstrated that regular avocado consumption presents advantageous effects on cardiovascular system. However, little attention has been paid to the use of avocado as a dietary supplement, in particular, for individuals involved in physical exercise training. Therefore, this study aims to evaluate the effect of acute avocado pulp intake on cardiovascular and autonomic recovery subsequent to moderate exercise. Using a crossover, randomized, double-blind and placebo-controlled trial design, 16 healthy female adults underwent two protocols: Avocado pulp (600 mg in capsule) and placebo (600 mg starch in capsule). After the ingestion of Avocado pulp or placebo, the subjects were seated for 60 min at rest, followed by running on a treadmill at a submaximal level and then remained seated for 60 min during recovery from the exercise. Heart rate (HR), heart rate variability (HRV) [rMSSD, SD1, HF (ms2)] and skin conductance were evaluated before and during exercise, as well as during recovery. HR, systolic blood pressure, HRV and skin conductance recovered faster when subjects were given avocado pulp prior to exercise. In conclusion, avocado pulp improved cardiovascular and autonomic recovery after exercise, suggesting a reduced risk of cardiovascular events after exertion. The current results support the beneficial effects of ingestion of avocado prior to submaximal treadmill running.<br>
-[IPFS Link](https://ipfs.io/ipfs/QmXDmDvxJ6wQA64uJwDNDUmVNUAaZToo1LKCW2XyxzhjeH)
+**Institution(s):** University Health Center ABC, Santo Andre, SP, Brazil; Sao Paulo State University (UNESP), SP, Brazil; Oxford Brookes University, Oxford, UK; Acadia University, Wolfville, NS, Canada<br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmXDmDvxJ6wQA64uJwDNDUmVNUAaZToo1LKCW2XyxzhjeH), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmXDmDvxJ6wQA64uJwDNDUmVNUAaZToo1LKCW2XyxzhjeH)
 
-<!-- [^1]: 
-**Title:** [ ]( )<br>
-**Publication:** [ ]( )<br>
+[^3]: **Title:** []()<br>
+**Publication:** []()<br>
 **Date:** <br>
 **Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
 **Author(s):** <br>
-**Institution(s):** <br>
-**Abstract:** <br>
-[IPFS Link](https://ipfs.io/ipfs/) -->
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
