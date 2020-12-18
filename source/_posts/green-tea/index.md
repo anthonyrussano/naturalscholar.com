@@ -243,3 +243,19 @@ These findings indicate that EGCG efficiently suppresses wound healing-related e
 **Author(s):** Gyuman Park, Byung Sun Yoon, Jai-Hee Moon, Joo Young Noh, ChilHwan Oh, Seungkwon You<br>
 **Institution(s):** Korea University, Seoul, Korea; Chonnam National University, Kwangju, Korea; Gachon University of Medicine and Science, Incheon, Korea<br>
 **IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmQ7VNKXVgbznpffPrsxP298WWB4wZDKb39Cn4DPrNVLur), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmQ7VNKXVgbznpffPrsxP298WWB4wZDKb39Cn4DPrNVLur)
+
+[^9]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
+
+[^10]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)

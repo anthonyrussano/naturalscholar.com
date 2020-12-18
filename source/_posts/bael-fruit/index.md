@@ -49,24 +49,26 @@ May help control the complications of type 2 diabetes.[^1]
 
 Bael fruit tea tested in this study was found effective in increasing plasma antioxidant activity with the potential of reducing oxidative stress and help controlling secondary complications of type 2 diabetes and maintaining health and wellness.[^1]
 
-[^1]: 
-**Title:** [Phenolic antioxidants of bael fruit herbal tea and effects on postprandial glycemia and plasma antioxidant status in healthy adults](https://doi.org/10.31665/JFB.2020.11238)<br>
-**Publication:** [International Society for Nutraceuticals and Functional Foods: Journal of Food Bioactives]( )<br>
+[^1]: **Title:** [Phenolic antioxidants of bael fruit herbal tea and effects on postprandial glycemia and plasma antioxidant status in healthy adults](https://doi.org/10.31665/JFB.2020.11238)<br>
+**Publication:** [International Society for Nutraceuticals and Functional Foods: Journal of Food Bioactives](http://www.isnff-jfb.com/index.php/index)<br>
 **Date:** September 2020<br>
-**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Study Type:** Human Study: In Vivo<br>
 **Author(s):** Anoma Chandrasekara, Thavanthen Januka, Disna Kumari, Adriano Costa de Camargo, Fereidoon Shahidi<br>
-**Institution(s):** Wayamba University of Sri Lanka, University of Chile, Memorial University of Newfoundland, St. John’s, NL, Canada<br>
-**Abstract:** Herbal teas are globally popular among health conscious consumers. In this study the phenolic content and potential antioxidant activities of bael fruit herbal tea prepared with dried immature bael fruit cuts (Aegle marmelos), traditionally used in the Asia, were determined. Phenolic compounds of the herbal extracts were identified using liquid chromatography-tandem mass spectrometry. The total phenolic content (TPC) and antioxidant activities of the tested herbal extract was determined. The amount of herbal material to be used in the tea preparation was established based on the sensory evaluation conducted with 50 untrained adult panelists. The single dose efficacy of the bael fruit herbal tea on postprandial glycemic response and plasma antioxidant capacity (PAC) of healthy adults were investigated. A randomized crossover study was carried out with 16 healthy adults who consumed 250 mL bael fruit tea with 50 g glucose challenge and the control (50 g glucose in 250 mL water) randomly within two visits. Blood samples were collected at the baseline and postprandial at 30, 45, 60, 90, and 120 min using microcapillary tubes. The plasma was analyzed for glucose concentration (PGC) and PAC. The TPC of bael fruit tea extract was 108.3 μmol gallic acid equivalents/g of extract. There was a reduction trend in mean PGC of those subjects who consumed bael fruit tea compared to the glucose added water (control) at each time point. Furthermore, the bael fruit tea significantly increased PAC at the end of 120 min post ingestion. Further research is warranted to examine the long-term efficacy of multiple dose ingestion of bael fruit herbal tea in the control and management of diseases associated with oxidative stress.<br>
-[IPFS Link](https://ipfs.io/ipfs/QmbpjoRBMCCvYf81nDa3fyEjdK5ydVLyRS8wfnskj3QWcQ)
+**Institution(s):** Wayamba University of Sri Lanka; University of Chile; Memorial University of Newfoundland, St. John’s, NL, Canada<br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmbpjoRBMCCvYf81nDa3fyEjdK5ydVLyRS8wfnskj3QWcQ), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmbpjoRBMCCvYf81nDa3fyEjdK5ydVLyRS8wfnskj3QWcQ)
 
-<!-- [^1]: 
-**Title:** [ ]( )<br>
-**Publication:** [ ]( )<br>
+[^2]: **Title:** []()<br>
+**Publication:** []()<br>
 **Date:** <br>
 **Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
 **Author(s):** <br>
-**Institution(s):** <br>
-**Abstract:** <br>
-[IPFS Link](https://ipfs.io/ipfs/) -->
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
 
-<!-- <img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_200,f_auto/healing-items/acemannan.jpg" style="border-radius: 5px; border-width: 1px; border-color: #c9c9c9; border-style: solid;   display: block; margin-left: auto; margin-right: auto;"> -->
+[^3]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)

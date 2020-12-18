@@ -1,10 +1,5 @@
 ---
-author: Anthony Russano
-contact: anthony@qualitywebsolutions.org
-updated: 2020/04/01 23:24:11
 title: Grape Seed Extract
-category:
-- Extracts
 tags:
 - Antioxidant
 - Obesity
@@ -73,10 +68,37 @@ Grape Seed extract contains catechins which have anti-diabetic properties.[^2]
 
 The Catechins and procyanidins found in grape seed extract strongly inhibit α-amylase and α-glucosidase activity (these are glucosidases required for starch digestion). The effect of this inhibition is to help reduce the flow of glucose from complex dietary carbohydrates into the bloodstream, diminishing the postprandial (after eating) effect of starch consumption on blood glucose levels.[^2]
 
-- Grape seed extract strongly inhibited both α-amylase and α-glucosidase activity, with equal and much higher potency, respectively, than acarbose (a pharmacological glucosidase inhibitor).[^2]
+Grape seed extract strongly inhibits both α-amylase and α-glucosidase activity, with equal and much higher potency, respectively, than acarbose (a pharmacological glucosidase inhibitor).[^2]
 
-[^1]: **Study Type:** Animal Study<br>**Title:** Ameliorative effect of grape seed and ginkgo biloba against
-pulmonary damage induced by amiodarone in male albino rats<br>**Author(s):** Sanaa Reda Galaly, Manal Abdul-Hamid, Hanaa Mahmoud, Fatma Mostafa<br>**Publication:** <i>Department of Zoology, Faculty of Science, Beni-Suef University, Beni-Suief, Egypt.</i><br>**Abstract:** <i>Amiodarone being an orally effective antiarrhythmic drug widely used throughout the world, had long-term administration side effects
-such as pulmonary toxicity. Thirty six male albino rats were divided into six equal groups, and doses of different solutions were given to them by gastric tube every day for 8 weeks as follow; the 1st group (G1) which was considered as an untreated control group under the same laboratory conditions, was given distilled water, the 2nd group (G2) was given (100 mg/kg/day) of grape seed , the 3rd group (G3) received (100 mg/kg/day) of ginkgo biloba, the 4th group (G4) amiodarone-treated group that was given (40 mg/kg/day), the 5th group (G5) received amiodarone along with grape seed at the same time, and the 6th group (G6) was given amiodarone parallel with ginkgo biloba at the same time for 8 weeks. The current histological study revealed that amiodarone caused marked changes in the lung including peribronchiolar hyperplasia and inflammatory cells infiltration in addition to thicking of interalveolar septa moreover, ultra-structural observations in the lung including vacuolation, degeneration of microvilli and pyknotic nuclei. In addition, histochemical study revealed the depletion of glycogen, and comet assay revealed marked DNA damage. Treatment with the two used antioxidants (grape seed and Ginkgo biloba) reduced the extent of lung damage induced by amiodarone. These antioxidants ameliorated the histopathological structure, increased the contents of glycogen, and improved the ultrastructure alternations of the lung tissue. In conclusion, grape seed is markedly more effective than Ginkgo biloba in protecting rats against amiodarone.</i><br>**Link:** [Source](https://japer.in/storage/article/file/AC328Article.pdf)<br>**Citations:**   
+[^1]: **Title:** [Ameliorative effect of grape seed and ginkgo biloba against pulmonary damage induced by amiodarone in male albino rats](https://www.researchgate.net/publication/325554393_Ameliorative_effect_of_grape_seed_and_ginkgo_Biloba_against_pulmonary_damage_induced_by_amiodarone_in_male_albino_rats)<br>
+**Publication:** [Journal of Advance Pharmacy Education and Research](https://japer.in/en)<br>
+**Date:** 2018<br>
+**Study Type:** Animal Study: In Vivo<br>
+**Author(s):** Sanaa Reda Galaly, Manal Abdul-Hamid, Hanaa Mahmoud, Fatma Mostafa<br>
+**Institutions:** Beni-Suef University, Beni-Suief, Egypt.<br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmeZcmcZ4hYpJKrdJvuAGu4cqa1JB8JxG3zUvmt9PiFRyQ), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmeZcmcZ4hYpJKrdJvuAGu4cqa1JB8JxG3zUvmt9PiFRyQ)
 
-[^2]: **Study Type:** Human Study: In Vitro, In Silico<br>**Title:** Inhibition of α-Amylase and α-Glucosidase Activity by Tea and Grape Seed Extracts and their Constituent Catechins<br>**Author(s):** Meltem Yilmazer-Musa, Anneke M. Griffith, Alexander J. Michels, Erik Schneider, and Balz Frei<br>**Institution(s):** Linus Pauling Institute, Oregon State University, Corvallis, OR 97331 USA; USANA Health Sciences, Inc., Salt Lake City, Utah 84120, USA<br>**Publication:** <i>Journal of Agricultural and Food Chemistry</i><br>**Date:** September 2012<br>**Abstract:** <i>We evaluated the inhibitory effects of plant-based extracts (grape seed, green tea, and white tea) on α-amylase and α-glucosidase activity, glucosidases required for starch digestion. The abundant flavan-3-ol monomers (catechins) in these extracts were also tested for their inhibitory potential and evaluated against the pharmacological glucosidase inhibitor, acarbose. To evaluate relative potency of these extracts and catechins, the concentrations required for 50 and 90% inhibition of enzyme activity were determined. Maximum enzyme inhibition was used to assess an inhibitor’s relative efficacy. Results showed that grape seed extract strongly inhibited both α-amylase and α-glucosidase activity, with equal and much higher potency, respectively, than acarbose. While tea extracts and individual catechin 3-gallates were less effective inhibitors of α-amylase, they were potent inhibitors of α-glucosidase. Our data show that plant extracts containing catechin 3-gallates are potent inhibitors of α-glucosidase, and suggest that procyanidins found in grape seed extract strongly inhibit α-amylase activity.</i><br>**Link:** [Source](https://dx.doi.org/10.1021%2Fjf301147n)<br>**Citations:**   
+[^2]: **Title:** [Inhibition of α-Amylase and α-Glucosidase Activity by Tea and Grape Seed Extracts and their Constituent Catechins](https://dx.doi.org/10.1021%2Fjf301147n)<br>
+**Publication:** [Journal of Agricultural and Food Chemistry](https://pubs.acs.org/jafc)<br>
+**Date:** September 2012<br>
+**Study Type:** Human Study: In Vitro, In Silico<br>
+**Author(s):** Meltem Yilmazer-Musa, Anneke M. Griffith, Alexander J. Michels, Erik Schneider, and Balz Frei<br>
+**Institution(s):** Oregon State University, Corvallis, Oregon USA; USANA Health Sciences, Inc., Salt Lake City, Utah, USA<br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmYEkK4ewjWjM1KNX3xaUMDzzS3yVGvKofpXowwcWRtj5S), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmYEkK4ewjWjM1KNX3xaUMDzzS3yVGvKofpXowwcWRtj5S)
+
+
+[^3]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
+
+[^4]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
