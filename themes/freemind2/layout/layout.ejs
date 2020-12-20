@@ -2,6 +2,19 @@
  <body>
    <h1 style="text-align:center;"><a href="<%- url_for(config.root) %>">Natural Scholar</a></h1>
    <div class="container">
+    <div style="text-align:center;">
+      <button style="font-size: 120%;">
+        <b>
+          <a href="<%- url_for('articles/') %>">Articles</a>
+        </button>
+        <button style="font-size: 120%;">
+          <a href="<%- url_for('keywords/') %>">Keywords</a> 
+        </button>
+        <button style="font-size: 120%;">
+          <a href="https://www.podbean.com/lsw/naturalscholar" target="_blank">Podcast</a>
+        </b>    
+      </button>
+     </div>
      <div>
       <%- body %>
      </div>
