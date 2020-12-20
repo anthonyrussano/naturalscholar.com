@@ -25,9 +25,7 @@ tags:
 
 ## Cultivars
 
-**Aloe arborescens**, also called Candelabra aloe or krantz aloe, is a large, multi-headed, sprawling succulent—related to [Aloe Vera](/aloe-vera/)—that can sometimes reaches tree size.[^1]
-
-In Japan it is referred to as Kidachi-aloe.[^2]
+<img src="https://res.cloudinary.com/alchemist-cookbook/image/upload/w_100,f_auto/healing-items/Aloe arborescens" style="border-radius: 5px; float:left; margin: 5px;">**Aloe arborescens**, also called Candelabra aloe or krantz aloe, is a large, multi-headed, sprawling succulent that can sometimes reaches tree size. In Japan it is referred to as Kidachi-aloe. Aloe arborescens is valued for its succulent green leaves, large vibrantly-colored flowers, winter blooming, and attraction for birds, bees, and butterflies. Aloe arborescens is traditionally planted as a living fence or security hedge. It is easily propagated by cuttings.
 
 ## Healing Properties
 
