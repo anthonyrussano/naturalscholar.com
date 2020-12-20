@@ -1,7 +1,13 @@
 ---
 title: Gotu Kola
 tags:
-- 
+- Antidiabetic
+- Antioxidant
+- Anticancer
+- Antiinflammatory
+- Brain Health
+- Memory Enhancer
+- Nootropic
 ---
 **Gotu Kola** (Centella asiatica) is a herbaceous, perennial flowering plant. It is used as a vegetable and as a medicinal herb.
 
