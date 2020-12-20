@@ -211,7 +211,7 @@ The sterols present in Aloe Vera extracts are able to reduce edema inflammation 
 **Date:** June 2019<br>
 **Study Type:**  Animal Study: In Vitro<br>
 **Author(s):** Guglielmina Froldi, Federica Baronchelli, Elisa Marin, and Margherita Grison<br>
-**Institution(s):** Department of Pharmaceutical and Pharmacological Sciences, University of Padova, 35131 Padova, Italy<br>
+**Institution(s):** University of Padova, Italy<br>
 **IPFS:** [ipfs.io](https://ipfs.io/ipfs/Qma1qmVrad3uVqtJiWBJbcihNWc3a3TFiQ6Pf6u63cQNeS), [cloudflare](https://cloudflare-ipfs.com/ipfs/Qma1qmVrad3uVqtJiWBJbcihNWc3a3TFiQ6Pf6u63cQNeS)
 
 [^6]: **Title:** [Administration of a Nutraceutical Mixture Composed by Aloe arborescens, Annona muricata, Morinda citrifolia, Beta rubra, Scutellaria baicalensis, and Vaccinium myrtillus Reduces Doxorubicin-Induced Side Effects](https://doi.org/10.1080/01635581.2019.1633364)<br>
