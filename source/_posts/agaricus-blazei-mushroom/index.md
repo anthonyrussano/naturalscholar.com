@@ -22,7 +22,7 @@ tags:
 - Gynecological Cancer
 - Inflammatory Bowel Disease
 ---
-**Agaricus Blazei Mushroom** [^1] (*also known as:* Agaricus subrufescens, Agaricus brasiliensis, Agaricus rufotegulis, almond mushroom, mushroom of the sun, God's mushroom, mushroom of life, royal sun agaricus, jisongrong, or himematsutake) is an edible species of mushroom related to the champignon (Agaricus bisporus).
+**Agaricus Blazei Mushroom** [^1] (Agaricus subrufescens, Agaricus brasiliensis, Agaricus rufotegulis, almond mushroom, mushroom of the sun, God's mushroom, mushroom of life, royal sun agaricus, jisongrong, or himematsutake) is an edible species of mushroom related to the champignon (Agaricus bisporus).
 
 ## Composition
 
@@ -58,6 +58,18 @@ Found to induce apoptosis in leukemic cells.[^1]
 
 Increased NK cell activity and quality of life.[^1]
 
-[^1]: **Study Type:**  Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>**Title:** <br>**Author(s):**  <br>**Institution(s):** <br>**Publication:** <i> </i><br>**Date:** <br>**Abstract:** <i> </i><br>**Link:** [Source]()<br>**Citations:**
+[^1]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
 
-<!-- [^1]: **Study Type:**  Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>**Title:** <br>**Author(s):**  <br>**Institution(s):** <br>**Publication:** <i> </i><br>**Date:** <br>**Abstract:** <i> </i><br>**Link:** [Source]()<br>**Citations:** -->
+[^2]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)

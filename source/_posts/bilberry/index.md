@@ -14,7 +14,7 @@ tags:
 - Alzheimer's
 - Chelation
 ---
-Bilberry (Vaccinium myrtillus)
+**Bilberry** (Vaccinium myrtillus)
 
 ## Composition
 
@@ -55,6 +55,20 @@ Chelation of metal ions
 
 ## Synergistic Effects
 
-- 33% bilberry / 67% blackcurrant blend has the best synergistic effect.[^1]
+Bilberry / Blackcurrant blend has the best synergistic effect.[^1]
 
-[^1]: **Study Type:**  Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>**Title:** <br>**Author(s):**  <br>**Institution(s):** <br>**Publication:** <i> </i><br>**Date:** <br>**Abstract:** <i> </i><br>**Link:** [Source]()<br>**Citations:**   
+[^1]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
+
+[^2]: **Title:** []()<br>
+**Publication:** []()<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institutions:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare](https://cloudflare-ipfs.com/ipfs/)
