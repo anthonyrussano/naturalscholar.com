@@ -120,11 +120,29 @@ Compounds which were isolated from the bitter melon fruit exhibit significant in
 
 Dietary intake of Bitter Melon supplements was tested on mice. Bitter melon supplementation was shown to evoke a divergent, and generally less favorable, set of metabolic responses in females compared to males.[^2]
 
-[^1]: **Study Type:**  Animal Study<br>**Title:** Bitter melon seed oil increases mitochondrial content in gastrocnemius muscle and improves running endurance in sedentary C57BL/6 J mice<br>**Author(s):** Fei Koon Chana, Chin Hsub, Tsai-Chung Lic, d, Wen-Hung Chene, Kuo-Tang Tsenge, Pei-Min Chao<br>**Institution(s):** China Medical University, Taichung, Taiwan; National Taiwan University of Sport, Taichung City, Taiwan; College of Medical and Health Science, Asia University, Taichung, Taiwan; Aquavan Technology Co., Ltd., Taipei City, Taiwan<br>**Publication:** [The Journal of Nutritional Biochemistry]()<br>**Date:** 6 June 2018<br>**Link:** [https://doi.org/10.1016/j.jnutbio.2018.05.008](https://doi.org/10.1016/j.jnutbio.2018.05.008)   
+[^1]: **Title:** [Bitter melon seed oil increases mitochondrial content in gastrocnemius muscle and improves running endurance in sedentary C57BL/6 J mice](https://doi.org/10.1016/j.jnutbio.2018.05.008)<br>
+**Publication:** [The Journal of Nutritional Biochemistry](https://www.sciencedirect.com/science/journal/09552863)<br>
+**Date:** 6 June 2018<br>
+**Study Type:**  Animal Study<br>
+**Author(s):** Fei Koon Chana, Chin Hsub, Tsai-Chung Lic, d, Wen-Hung Chene, Kuo-Tang Tsenge, Pei-Min Chao<br>
+**Institution(s):** China Medical University, Taichung, Taiwan; National Taiwan University of Sport, Taichung City, Taiwan; Asia University, Taichung, Taiwan; Aquavan Technology Co., Ltd., Taipei City, Taiwan<br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmepXsbhzijQ3v8p1xJ17RW4K4X8XTGe18u67BS5J4oQwM), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmepXsbhzijQ3v8p1xJ17RW4K4X8XTGe18u67BS5J4oQwM)
 
-[^2]: **Study Type:**  Animal Study<br>**Title:** Potential adverse effects of botanical supplementation in high-fat-fed female mice<br>**Author(s):**  Scott Fuller, Yongmei Yu, Tamra Mendoza, David M. Ribnicky, William T. Cefalu, Z. Elizabeth Floyd<br>**Institution(s):** Pennington Biomedical Research Center Louisiana State University System Baton Rouge USA; School of Kinesiology University of Louisiana at Lafayette Lafayette USA; Biotech Center Rutgers University New Brunswick USA<br>**Publication:** <i>Biology of Sex Differences</i><br>**Date:** September 2018<br>**Link:** [Source](https://link.springer.com/article/10.1186/s13293-018-0199-1)
+[^2]: **Title:** [Potential adverse effects of botanical supplementation in high-fat-fed female mice](https://doi.org/10.1186/s13293-018-0199-1)<br>
+**Publication:** [Biology of Sex Differences](https://link.springer.com/journal/13293)<br>
+**Date:** September 2018<br>
+**Study Type:**  Animal Study<br>
+**Author(s):** Scott Fuller, Yongmei Yu, Tamra Mendoza, David M. Ribnicky, William T. Cefalu, Z. Elizabeth Floyd<br>
+**Institution(s):** Louisiana State University System, Baton Rouge, USA; University of Louisiana at Lafayette Lafayette USA; Rutgers University New Brunswick USA<br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmT4dKxMV7Kt2zLLyR6P3ayo31YjXCWJQd7vszCRF592X4), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmT4dKxMV7Kt2zLLyR6P3ayo31YjXCWJQd7vszCRF592X4)
 
-[^3]: **Study Type:**  Human Study: In Vitro<br>**Title:** Structural characterization of Momordica charantia L. (Cucurbitaceae) oligopeptides and the detection of their capability in non-small cell lung cancer A549 cells: induction of apoptosis<br>**Author(s):** Jiao Dong, Xianxin Zhang, Chunxiao Qu, Xuedong Rong, Jie Liu, and Yiqing Qu<br>**Institution(s):** Department of Respiratory Medicine, Qilu Hospital of Shandong University, Jinan, Shandong 250012, China.; Department of Respiratory Medicine, Shandong Provincial Chest Hospital, Jinan, 250013, China; The Research Center of Allergy & Immunology, Shenzhen University School of Medicine, Shenzhen, 518060, China.<br>**Publication:** <i>The Royal Society of Chemistry</i><br>**Date:** March 2019<br><br>**Link:** [Source](https://doi.org/10.1039/C9RA00090A)   
+[^3]: **Title:** [Structural characterization of Momordica charantia L. (Cucurbitaceae) oligopeptides and the detection of their capability in non-small cell lung cancer A549 cells: induction of apoptosis](https://doi.org/10.1039/C9RA00090A)<br>
+**Publication:** [The Royal Society of Chemistry](https://pubs.rsc.org/en/journals/journal/ra)<br>
+**Date:** March 2019<br>
+**Study Type:**  Human Study: In Vitro<br>
+**Author(s):** Jiao Dong, Xianxin Zhang, Chunxiao Qu, Xuedong Rong, Jie Liu, and Yiqing Qu<br>
+**Institution(s):** Qilu Hospital of Shandong University, Jinan, Shandong, China; Shandong Provincial Chest Hospital, Jinan, China; Shenzhen University School of Medicine, Shenzhen, China<br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmUHgBZWuGQN9ssJGpZ6u4cMcms3ZtDan1pGYhzrMRtepw), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmUHgBZWuGQN9ssJGpZ6u4cMcms3ZtDan1pGYhzrMRtepw)
 
 [^4]: **Title:** [Possible molecular mechanisms of glucose‐lowering activities of Momordica charantia(karela) in diabetes](https://doi.org/10.1002/jcb.28483)<br>
 **Publication:** [Journal of Cellular Biochemistry](https://onlinelibrary.wiley.com/journal/10974644)<br>
