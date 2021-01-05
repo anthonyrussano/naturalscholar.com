@@ -1,17 +1,11 @@
 <div class="col-md-3" id="post_meta">
 	<div class="meta-widget">
-		<button class="toc" style="border-radius: 25px;width: 100%;text-align: left;">
-			<span class="list-group-item-text" style="font-style: italic;color: #444444;">
-				<span style="font-size: 200%;color: #444444;"><%= item.title %><b class="caret"></b></span>
-				<img src="<%- site.data.resources.image_cloud %><%- item.title %>.jpg" style="border-radius: 25px; border-width: 1px; border-color: #c9c9c9; border-style: solid;">
-			</span>
-			<div id="toc">
-				<h5>Keywords<b class="caret"></b></h5>
-				<ul class="list-unstyled">
-				<%- partial('tagalt') %>
-				</ul>
-			</div>
-		</button>
+		<h5><%= item.title %><b class="caret"></b></h5>
+		<img src="<%- site.data.resources.image_cloud %><%- item.title %>.jpg" style="border-radius: 25px;border-width: 2px;border-style:inset;">
+		<div id="toc">
+		<h5>Keywords<b class="caret"></b></h5>
+		<%- partial('tagalt') %>
+		</div>
 		<h5>Table of Contents<b class="caret"></b></h5>
 		<%- toc(item.content, {class: "toc-article", list_number:false}) %>
 	</div>

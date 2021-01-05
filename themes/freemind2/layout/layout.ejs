@@ -1,6 +1,14 @@
 <%- partial('_partial/head') %>
  <body>
    <h1 style="text-align:center;"><a href="<%- url_for(config.root) %>">Natural Scholar</a></h1>
+   <div style="text-align:center;">
+    <b>
+      <a href="<%- url_for(config.root) %>">Home</a> - 
+      <a href="<%- url_for('articles/') %>">Articles</a> - 
+      <a href="<%- url_for('keywords/') %>">Keywords</a>
+      <!-- <a href="https://www.podbean.com/lsw/naturalscholar" target="_blank">Podcast</a> -->
+    </b>
+  </div>
    <div class="container">
      <div>
       <%- body %>
