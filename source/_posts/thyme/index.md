@@ -1,16 +1,29 @@
 ---
-author: Anthony Russano
-contact: anthony@qualitywebsolutions.org
-updated: 2019/09/05 21:36:00
 title: Thyme
-descriptor: thyme
-category: Herbs
 tags:
+- Antimicrobial
+- Antibacterial
 ---
-**Thyme**[^1]
+**Thyme** is the herb of some members of the genus Thymus of aromatic perennial evergreen herbs in the mint family Lamiaceae. Thymes are relatives of the oregano genus Origanum. They have culinary, medicinal, and ornamental uses, and the species most commonly cultivated and used for culinary purposes is Thymus vulgaris.
 
 ## Healing Properties
 
 ## Disease / Symptom Treatment
 
-[^1]: **Study Type:**  Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>**Title:** <br>**Author(s):**  <br>**Institution(s):** <br>**Publication:** <i> </i><br>**Date:** <br>**Abstract:** <i> </i><br>**Link:** [Source]()<br>**Citations:**   
+[^1]: **Title:** [ ]( )<br>
+**Publication:** [ ]( )<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institution(s):** <br>
+**Abstract:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare-ipfs.com](https://cloudflare-ipfs.com/ipfs/)
+
+[^2]: **Title:** [ ]( )<br>
+**Publication:** [ ]( )<br>
+**Date:** <br>
+**Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
+**Author(s):** <br>
+**Institution(s):** <br>
+**Abstract:** <br>
+**IPFS:** [ipfs.io](https://ipfs.io/ipfs/), [cloudflare-ipfs.com](https://cloudflare-ipfs.com/ipfs/)
