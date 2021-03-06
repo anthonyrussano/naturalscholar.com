@@ -103,7 +103,6 @@ Withania somnifera in concentration of 10g/ml inhibited the growth of various pa
 **Institution(s):** Faculty of Science & Environment, MGCGV, Chitrakoot, Satna, M.P.<br>
 **IPFS:** [ipfs.io](https://ipfs.io/ipfs/QmTEgqbrMU6hB4JoZa6reTQTAeAs7P2dEuozMf4Vsdq3gR), [cloudflare](https://cloudflare-ipfs.com/ipfs/QmTEgqbrMU6hB4JoZa6reTQTAeAs7P2dEuozMf4Vsdq3gR)
 
-
 [^2]: **Title:** []()<br>
 **Publication:** []()<br>
 **Date:** <br>
