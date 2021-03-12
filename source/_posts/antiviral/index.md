@@ -224,5 +224,4 @@ Fucodiphloroethol G (93)
 **Study Type:** Animal Study, Commentary, Human Study: In Vitro - In Vivo - In Silico, Human: Case Report, Meta Analysis, Review<br>
 **Author(s):** <br>
 **Institution(s):** <br>
-**Abstract:** <br>
 [IPFS Link](https://ipfs.io/ipfs/) -->
